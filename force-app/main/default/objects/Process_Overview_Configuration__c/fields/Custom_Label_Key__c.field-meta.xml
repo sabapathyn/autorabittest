@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Custom_Label_Key__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <description>Key to lookup the custom label.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Key to lookup the custom label.</inlineHelpText>
+    <label>Custom Label Key</label>
+    <length>255</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Risk_Grade_Template__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>This field is populated automatically. It stores the last selected risk grade template choice when creating a risk rating review. When creating risk rating reviews from the selection page, this field is used to automatically populate the risk grade template picklist.</description>
+    <label>Risk Grade Template</label>
+    <referenceTo>LLC_BI__Risk_Grade_Template__c</referenceTo>
+    <relationshipLabel>Accounts</relationshipLabel>
+    <relationshipName>Accounts</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Lookup</type>
+</CustomField>

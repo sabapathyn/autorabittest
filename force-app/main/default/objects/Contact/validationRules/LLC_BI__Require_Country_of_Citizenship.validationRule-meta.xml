@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Require_Country_of_Citizenship</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+ISPICKVAL( LLC_BI__US_Citizen__c, &apos;no&apos;),
+ISBLANK( TEXT( LLC_BI__Country_of_Citizenship__c ) ) )</errorConditionFormula>
+    <errorMessage>If contact is not a US citizen a country of citizenship must be selected.</errorMessage>
+</ValidationRule>

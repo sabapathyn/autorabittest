@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the full name of the disregarded entity&apos;s primary non-disregarded U.S. owner as it appears on a tax filing. --></help>
+    <label><!-- Form W9 Name of Disreg Entity US Owner --></label>
+    <name>WKDDP__Form_W9_Name_of_Disreg_Entity_USOwner__c</name>
+</CustomFieldTranslation>

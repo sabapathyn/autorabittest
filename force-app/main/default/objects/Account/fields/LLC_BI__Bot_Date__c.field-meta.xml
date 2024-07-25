@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Bot_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. The date field is used to specify when the BOT should wake up.</description>
+    <inlineHelpText>The field the BOT uses to pull when it&apos;s supposed to wake up</inlineHelpText>
+    <label>Bot Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

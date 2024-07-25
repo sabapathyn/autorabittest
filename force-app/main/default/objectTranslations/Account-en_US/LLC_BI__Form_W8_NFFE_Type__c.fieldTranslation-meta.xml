@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates whether the beneficial owner is the NFFE corporation in question, or the affiliate of said corporation, as prescribed and certified by IRS forms W-8. --></help>
+    <label><!-- Form W8 NFFE Type --></label>
+    <name>LLC_BI__Form_W8_NFFE_Type__c</name>
+    <picklistValues>
+        <masterLabel>Affiliate of Publicly-Traded NFFE</masterLabel>
+        <translation><!-- Affiliate of Publicly-Traded NFFE --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Publicly-Traded NFFE (not an affiliate)</masterLabel>
+        <translation><!-- Publicly-Traded NFFE (not an affiliate) --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

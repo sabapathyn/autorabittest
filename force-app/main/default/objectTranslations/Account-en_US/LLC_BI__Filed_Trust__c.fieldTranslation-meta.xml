@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This indicates whether the financial institution possesses a valid and up-to-date trust agreement for this trust account. --></help>
+    <label><!-- Filed Trust --></label>
+    <name>LLC_BI__Filed_Trust__c</name>
+</CustomFieldTranslation>

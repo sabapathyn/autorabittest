@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__FICO_Credit_Report__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated automatically by the Credit Services integration. This field contains the ID of the credit report that was used to populate the other FICO fields.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This field contains the ID of the credit report that was used to populate the other FICO fields.</inlineHelpText>
+    <label>FICO Credit Report</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

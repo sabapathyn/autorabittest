@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The GIIN of the disregarded entity account holder. (Global Intermediary Identification Number.) --></help>
+    <label><!-- GIIN --></label>
+    <name>LLC_BI__GIIN__c</name>
+</CustomFieldTranslation>

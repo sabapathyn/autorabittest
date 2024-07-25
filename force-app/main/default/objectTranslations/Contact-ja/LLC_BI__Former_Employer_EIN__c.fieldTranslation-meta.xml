@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>アカウントホルダーの以前の雇用主識別番号。</help>
+    <label>元雇用主のアイン</label>
+    <name>LLC_BI__Former_Employer_EIN__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Income_Type_CM__c</fullName>
+    <label>Income Type CM</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Alimony Support</fullName>
+                <default>false</default>
+                <label>Alimony Support</label>
+            </value>
+            <value>
+                <fullName>Gross Annual Income</fullName>
+                <default>false</default>
+                <label>Gross Annual Income</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

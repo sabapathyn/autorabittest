@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>Screenshot_20220927_at_132347</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>nCino Pilot</label>
+    <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>Deal_Approval_V2</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>LLC_BI__Product_Package__c</pageOrSobjectType>
+        <recordType>LLC_BI__Product_Package__c.Deal_Approval</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <tabs>standard-home</tabs>
+    <tabs>nCheck_2</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Opportunity</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>LLC_BI__Loan__c</tabs>
+    <tabs>LLC_BI__Product_Package__c</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>nFORCE__Session__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>LLC_BI__Policy_Exception__c</tabs>
+    <tabs>ncinoocr__DR_Document_Version__c</tabs>
+    <tabs>LLC_BI__Policy_Type__c</tabs>
+    <tabs>LLC_BI__Dimension_Definition__c</tabs>
+    <tabs>LLC_BI__Policy__c</tabs>
+    <tabs>LLC_BI__Template_Records__c</tabs>
+    <tabs>DemoSetupStatus__c</tabs>
+    <tabs>LLC_BI__CFG_CKJ__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>nCino_Pilot_UtilityBar</utilityBar>
+</CustomApplication>

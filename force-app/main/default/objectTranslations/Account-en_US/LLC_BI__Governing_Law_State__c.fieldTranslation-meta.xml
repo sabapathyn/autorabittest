@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The governing law state of the trust. --></help>
+    <label><!-- Governing Law State --></label>
+    <name>LLC_BI__Governing_Law_State__c</name>
+    <picklistValues>
+        <masterLabel>California</masterLabel>
+        <translation><!-- California --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Connecticut</masterLabel>
+        <translation><!-- Connecticut --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>North Carolina</masterLabel>
+        <translation><!-- North Carolina --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>North Dakota</masterLabel>
+        <translation><!-- North Dakota --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

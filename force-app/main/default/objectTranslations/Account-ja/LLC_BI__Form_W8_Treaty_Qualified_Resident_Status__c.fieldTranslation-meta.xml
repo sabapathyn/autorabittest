@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the owner is not an individual is claiming treaty benefits for dividends. --></help>
+    <label><!-- Form W8 Treaty Qualified Resident Status --></label>
+    <name>LLC_BI__Form_W8_Treaty_Qualified_Resident_Status__c</name>
+</CustomFieldTranslation>

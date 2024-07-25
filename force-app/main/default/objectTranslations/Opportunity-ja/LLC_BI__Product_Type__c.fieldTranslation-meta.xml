@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>商品タイプ</label>
+    <name>LLC_BI__Product_Type__c</name>
+    <picklistValues>
+        <masterLabel>Auto Loan</masterLabel>
+        <translation><!-- Auto Loan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Business Checking</masterLabel>
+        <translation><!-- Business Checking --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Business Savings</masterLabel>
+        <translation><!-- Business Savings --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consumer Checking</masterLabel>
+        <translation><!-- Consumer Checking --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consumer Savings</masterLabel>
+        <translation><!-- Consumer Savings --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Line of Credit</masterLabel>
+        <translation><!-- Line of Credit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Non Real Estate</masterLabel>
+        <translation><!-- Non Real Estate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate</masterLabel>
+        <translation>不動産</translation>
+    </picklistValues>
+</CustomFieldTranslation>

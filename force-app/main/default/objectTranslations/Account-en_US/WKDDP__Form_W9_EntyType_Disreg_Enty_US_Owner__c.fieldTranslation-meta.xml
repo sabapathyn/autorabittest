@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the disregarded entity&apos;s non-disregarded owner type from this optional picklist. --></help>
+    <label><!-- Form W9 Enty Typ of Disreg Enty US Owner --></label>
+    <name>WKDDP__Form_W9_EntyType_Disreg_Enty_US_Owner__c</name>
+    <picklistValues>
+        <masterLabel>Association</masterLabel>
+        <translation><!-- Association --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cooperative</masterLabel>
+        <translation><!-- Cooperative --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporation</masterLabel>
+        <translation><!-- Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Domestic Government Unit</masterLabel>
+        <translation><!-- Domestic Government Unit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Estate</masterLabel>
+        <translation><!-- Estate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial Institution</masterLabel>
+        <translation><!-- Financial Institution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Foreign Government Unit</masterLabel>
+        <translation><!-- Foreign Government Unit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>General Partnership</masterLabel>
+        <translation><!-- General Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Liability Company</masterLabel>
+        <translation><!-- Limited Liability Company --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Liability Partnership</masterLabel>
+        <translation><!-- Limited Liability Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Partnership</masterLabel>
+        <translation><!-- Limited Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sole Proprietorship</masterLabel>
+        <translation><!-- Sole Proprietorship --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trust</masterLabel>
+        <translation><!-- Trust --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Product_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The required picklist field is manually populated and specifies the Product Type. The options for this field are dependent on the Product Line field. The options available for the Product selections are dependent on this field.</description>
+    <label>Product Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>LLC_BI__Product_Line__c</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Real Estate</fullName>
+                <default>false</default>
+                <label>Real Estate</label>
+            </value>
+            <value>
+                <fullName>Non Real Estate</fullName>
+                <default>false</default>
+                <label>Non Real Estate</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Commercial</controllingFieldValue>
+            <valueName>Real Estate</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Commercial</controllingFieldValue>
+            <valueName>Non Real Estate</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

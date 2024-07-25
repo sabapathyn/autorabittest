@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- United States Citizenship and Immigration Services (USCIS) Photo Identification verifies either identity or foreign status (on IRS form W-7(COA)). --></help>
+    <label><!-- Form W7 USCIS Verifies --></label>
+    <name>LLC_BI__Form_W7_USCIS_Verifies__c</name>
+    <picklistValues>
+        <masterLabel>Foreign Status</masterLabel>
+        <translation><!-- Foreign Status --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Identity</masterLabel>
+        <translation><!-- Identity --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

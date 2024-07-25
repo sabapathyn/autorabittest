@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Identifies an individual signer for a (non-US) entity who can (and will certify that they can) sign Forms W-8 on behalf of the entity. --></help>
+    <label><!-- Form W8 Signer Indicator --></label>
+    <name>LLC_BI__Form_W8_Signer_Indicator__c</name>
+</CustomFieldTranslation>

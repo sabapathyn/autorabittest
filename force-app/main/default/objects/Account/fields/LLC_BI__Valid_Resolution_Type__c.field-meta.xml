@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Valid_Resolution_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Valid Resolution Type</description>
+    <inlineHelpText>These are the options that indicate whether the financial institution possesses a valid and up-to-date resolution for the commercial account owner, or if a resolution needs to be included in the transaction workflow.</inlineHelpText>
+    <label>Valid Resolution Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>No resolution on file or updating- complete now</fullName>
+                <default>false</default>
+                <label>No resolution on file or updating- complete now</label>
+            </value>
+            <value>
+                <fullName>Resolution on file- not needed</fullName>
+                <default>false</default>
+                <label>Resolution on file- not needed</label>
+            </value>
+            <value>
+                <fullName>No resolution on file or updating- print to complete later</fullName>
+                <default>false</default>
+                <label>No resolution on file or updating- print to complete later</label>
+            </value>
+            <value>
+                <fullName>Customer providing- not needed</fullName>
+                <default>false</default>
+                <label>Customer providing- not needed</label>
+            </value>
+            <value>
+                <fullName>Waived</fullName>
+                <default>false</default>
+                <label>Waived</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

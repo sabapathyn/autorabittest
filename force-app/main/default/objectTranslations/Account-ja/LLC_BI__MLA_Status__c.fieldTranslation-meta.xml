@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>ユーザーの選択または統合は、関係を作成または更新するときに消費者が軍事貸出行為に適格であるかどうかを示すために、このオプションのブールフィールドをポピュレイします。</help>
+    <label>MLAのステータス</label>
+    <name>LLC_BI__MLA_Status__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>80 - Update OAuth System Properties</label>
+    <protected>false</protected>
+    <values>
+        <field>Active__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>AutomationClass__c</field>
+        <value xsi:type="xsd:string">ConfigOAuthUpdateSystemPropertiesStep</value>
+    </values>
+    <values>
+        <field>ModalPath__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>StepDependsOn__c</field>
+        <value xsi:type="xsd:double">75.0</value>
+    </values>
+    <values>
+        <field>StepDescription__c</field>
+        <value xsi:type="xsd:string">Note: You must perform these steps in Classic.
+1. Navigate to Setup &gt; Build &gt; Develop &gt; Custom Settings.
+2. Locate System Properties (nFORCE) and click Manage.
+3. For each of the following system property values in the category Rule_Engine_Communicator, replace the characters through .com with your org URL. Ensure that you preserve the characters after .com:
+-- OAUTH2_AUTH_URL
+-- OAUTH2_REDIRECT_URL
+-- OAUTH2_TOKEN_URL
+4. In the category Rule_Engine_Communicator, set the following system property values:
+-- OAUTH2_AUTH_CODE: (blank)
+-- OAUTH2_REFRESH_CODE: (blank)
+-- OAUTH2_CONSUMER_KEY: Set to the Consumer Key in the Portal_OAuth66 Connected App
+5. For each of the following system property values in the category OCR_Communicator, replace the characters through .com with your org URL. Ensure that you preserve the characters after .com:
+-- OCR_OAUTH2_AUTH_URL
+-- OCR_OAUTH2_TOKEN_URL
+-- OCR_OAUTH2_REDIRECT_URL</value>
+    </values>
+    <values>
+        <field>StepHyperlink__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>StepNumber__c</field>
+        <value xsi:type="xsd:double">80.0</value>
+    </values>
+    <values>
+        <field>StepTitle__c</field>
+        <value xsi:type="xsd:string">Update OAuth System Properties</value>
+    </values>
+    <values>
+        <field>StepType__c</field>
+        <value xsi:type="xsd:string">Automatic</value>
+    </values>
+</CustomMetadata>

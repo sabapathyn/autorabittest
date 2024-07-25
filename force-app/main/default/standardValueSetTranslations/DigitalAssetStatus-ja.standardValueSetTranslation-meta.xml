@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Error</masterLabel>
+        <translation>エラー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Off</masterLabel>
+        <translation>オフ</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>On</masterLabel>
+        <translation>オン</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Warning</masterLabel>
+        <translation>警告</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

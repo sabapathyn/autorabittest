@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>商品タイプ</label>
+    <name>LLC_BI__Product_Type__c</name>
+    <picklistValues>
+        <masterLabel>Non Real Estate</masterLabel>
+        <translation><!-- Non Real Estate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate</masterLabel>
+        <translation>不動産</translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>融資タイプ</label>
+    <name>LLC_BI__Loan_Type__c</name>
+    <picklistValues>
+        <masterLabel>Acquisition</masterLabel>
+        <translation>買収</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Expansion</masterLabel>
+        <translation>拡張</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Refinance</masterLabel>
+        <translation>借換え</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Relocation</masterLabel>
+        <translation>移転</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Start-up</masterLabel>
+        <translation>スタートアップ</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Startup</masterLabel>
+        <translation>スタートアップ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this checkbox to indicate affiliation with the financial institution. --></help>
+    <label><!-- Is Institution Affiliated --></label>
+    <name>LLC_BI__Is_Institution_Affiliated__c</name>
+</CustomFieldTranslation>

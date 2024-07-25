@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Define if this is a flow setting or a statistics setting --></help>
+    <label><!-- Flow Setting --></label>
+    <name>Flow_Setting__c</name>
+</CustomFieldTranslation>

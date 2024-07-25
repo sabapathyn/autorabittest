@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Is_Associated_To_Individual_Account__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this formula field to determine if the associated Account is an Individual Account.</description>
+    <formula>IF(Account.LLC_BI__Is_Individual__c == 1, true, false)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Is Associated To Individual Account</label>
+    <type>Checkbox</type>
+</CustomField>

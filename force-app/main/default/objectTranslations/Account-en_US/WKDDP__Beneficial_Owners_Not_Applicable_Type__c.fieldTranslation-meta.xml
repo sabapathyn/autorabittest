@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the reason that the Beneficial Owner Certification for Legal Entities is not needed and should be de-selected for the given transaction. --></help>
+    <label><!-- Beneficial Owners Not Applicable Type --></label>
+    <name>WKDDP__Beneficial_Owners_Not_Applicable_Type__c</name>
+    <picklistValues>
+        <masterLabel>Bank or Savings and Loan Holding Co.</masterLabel>
+        <translation><!-- Bank or Savings and Loan Holding Co. --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Bank with State Bank Regulator</masterLabel>
+        <translation><!-- Bank with State Bank Regulator --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Collected Elsewhere (earlier in transaction or acceptable alternate form/record)</masterLabel>
+        <translation><!-- Collected Elsewhere (earlier in transaction or acceptable alternate form/record) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exempt Account, POS for limited credit purchases of retail goods/services</masterLabel>
+        <translation><!-- Exempt Account, POS for limited credit purchases of retail goods/services --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exempt Account, finance insurance premiums direct payment by FI to provider</masterLabel>
+        <translation><!-- Exempt Account, finance insurance premiums direct payment by FI to provider --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exempt Account, finance postage purchases direct payment by FI to provider</masterLabel>
+        <translation><!-- Exempt Account, finance postage purchases direct payment by FI to provider --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exempt Account, finance purchase/lease of equipment direct payment by FI to vendor</masterLabel>
+        <translation><!-- Exempt Account, finance purchase/lease of equipment direct payment by FI to vendor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exempt Entity registered with the CFTC</masterLabel>
+        <translation><!-- Exempt Entity registered with the CFTC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exempt Entity registered with the SEC</masterLabel>
+        <translation><!-- Exempt Entity registered with the SEC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial Institution with Federal Regulator</masterLabel>
+        <translation><!-- Financial Institution with Federal Regulator --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial Market Utility designated by the Financial Stability Oversight Council</masterLabel>
+        <translation><!-- Financial Market Utility designated by the Financial Stability Oversight Council --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Foreign Financial Institution with regulator having beneficial ownership information</masterLabel>
+        <translation><!-- Foreign Financial Institution with regulator having beneficial ownership information --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Government Entity (Phase I Exemption)</masterLabel>
+        <translation><!-- Government Entity (Phase I Exemption) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insurance Company regulated by a State</masterLabel>
+        <translation><!-- Insurance Company regulated by a State --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Non-U.S. Governmental Department, Agency or Political Subdivision</masterLabel>
+        <translation><!-- Non-U.S. Governmental Department, Agency or Political Subdivision --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Not a &apos;Legal Entity&apos; subject to the certification requirement</masterLabel>
+        <translation><!-- Not a &apos;Legal Entity&apos; subject to the certification requirement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Legal Entity account participating in an Employee Benefit Plan (ERISA)</masterLabel>
+        <translation><!-- Other Legal Entity account participating in an Employee Benefit Plan (ERISA) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Legal Entity opening &apos;Private Banking Account&apos; (31 CFR  1010.620)</masterLabel>
+        <translation><!-- Other Legal Entity opening &apos;Private Banking Account&apos; (31 CFR  1010.620) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pooled Investment Vehicle operated/advised by financial institution</masterLabel>
+        <translation><!-- Pooled Investment Vehicle operated/advised by financial institution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Public Accounting Firm registered under Sarbanes-Oxley Act</masterLabel>
+        <translation><!-- Public Accounting Firm registered under Sarbanes-Oxley Act --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Publicly-Traded Company (Phase I Exemption)</masterLabel>
+        <translation><!-- Publicly-Traded Company (Phase I Exemption) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Subsidiary of Publicly-Traded Co. (Phase I Exemption)</masterLabel>
+        <translation><!-- Subsidiary of Publicly-Traded Co. (Phase I Exemption) --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

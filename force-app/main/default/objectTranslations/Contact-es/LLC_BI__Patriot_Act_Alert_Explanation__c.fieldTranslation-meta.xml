@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The text field automatically populates information about the offense(s) registered to a user. --></help>
+    <label><!-- Patriot Act Alert Explanation --></label>
+    <name>LLC_BI__Patriot_Act_Alert_Explanation__c</name>
+</CustomFieldTranslation>

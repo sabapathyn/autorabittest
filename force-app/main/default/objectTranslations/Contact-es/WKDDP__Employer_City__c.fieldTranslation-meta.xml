@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the city of the account holder&apos;s primary employer. --></help>
+    <label><!-- Employer City --></label>
+    <name>WKDDP__Employer_City__c</name>
+</CustomFieldTranslation>

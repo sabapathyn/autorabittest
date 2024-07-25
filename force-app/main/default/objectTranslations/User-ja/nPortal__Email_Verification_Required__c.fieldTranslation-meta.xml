@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This is a system-managed field that indicates whether an email verification is required for a user. --></help>
+    <label><!-- Email Verification Required --></label>
+    <name>nPortal__Email_Verification_Required__c</name>
+</CustomFieldTranslation>

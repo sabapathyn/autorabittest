@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>The EIN (Employer Identification Number) of the partnership qualifying for &apos;Exception 1a-Partnership Interest&apos; as described in the IRS instructions to form W-7 for Reason &apos;h&apos; for applying for an ITIN.</help>
+    <label><!-- Form W7 Exception 1a Partnership EIN --></label>
+    <name>LLC_BI__Form_W7_Exception_1a_Partnership_EIN__c</name>
+</CustomFieldTranslation>

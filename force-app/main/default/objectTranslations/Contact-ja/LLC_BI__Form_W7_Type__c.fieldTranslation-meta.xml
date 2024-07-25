@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the reason the account holder is submitting an application for an IRS Individual Taxpayer Identification Number. --></help>
+    <label><!-- Form W7 Type --></label>
+    <name>LLC_BI__Form_W7_Type__c</name>
+    <picklistValues>
+        <masterLabel>Citizen Dependent</masterLabel>
+        <translation><!-- Citizen Dependent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Citizen Spouse</masterLabel>
+        <translation><!-- Citizen Spouse --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dependent or Spouse of Nonresident Alien</masterLabel>
+        <translation><!-- Dependent or Spouse of Nonresident Alien --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Nonresident Alien Filing Tax Return</masterLabel>
+        <translation><!-- Nonresident Alien Filing Tax Return --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Nonresident Alien Student, Professor, or Researcher</masterLabel>
+        <translation><!-- Nonresident Alien Student, Professor, or Researcher --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Nonresident Alien Tax Treaty</masterLabel>
+        <translation><!-- Nonresident Alien Tax Treaty --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation>その他</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Resident Alien Filing Tax Return</masterLabel>
+        <translation><!-- Resident Alien Filing Tax Return --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

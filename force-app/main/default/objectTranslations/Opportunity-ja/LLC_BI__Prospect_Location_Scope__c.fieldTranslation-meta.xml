@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>見込位置範囲</label>
+    <name>LLC_BI__Prospect_Location_Scope__c</name>
+    <picklistValues>
+        <masterLabel>International</masterLabel>
+        <translation>国際的</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Local</masterLabel>
+        <translation>ローカル</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>National</masterLabel>
+        <translation>全国</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Regional</masterLabel>
+        <translation>地域の</translation>
+    </picklistValues>
+</CustomFieldTranslation>

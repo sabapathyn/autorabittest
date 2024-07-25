@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Aliases__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The user populates this text field to record all of the borrower’s possible aliases. By default, this field is blank.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter all of the borrower’s possible aliases in this field.</inlineHelpText>
+    <label>Aliases</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

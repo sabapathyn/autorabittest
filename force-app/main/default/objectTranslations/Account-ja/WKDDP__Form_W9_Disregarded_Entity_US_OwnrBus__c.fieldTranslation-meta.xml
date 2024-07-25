@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the business name of the disregarded entity&apos;s primary U.S. owner, e.g. the name of the disregarded entity account holder as it should appear on the Form W-9. --></help>
+    <label><!-- Form W9 Disregarded Entity US Owners Bus --></label>
+    <name>WKDDP__Form_W9_Disregarded_Entity_US_OwnrBus__c</name>
+</CustomFieldTranslation>

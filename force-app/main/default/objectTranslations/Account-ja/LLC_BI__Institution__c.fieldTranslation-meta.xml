@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>口座が所属する機関を明確にするためにこのルックアップ欄を手動で生成します。</help>
+    <label>ポータル</label>
+    <name>LLC_BI__Institution__c</name>
+    <relationshipLabel>アカウント</relationshipLabel>
+</CustomFieldTranslation>

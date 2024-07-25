@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_College_Duration__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. A description of how long the account holder will be attending the college or institution if the account holder is a non resident alien. Form specific for the Application for IRS Individual Taxpayer Identification Number (W-7).</description>
+    <externalId>false</externalId>
+    <inlineHelpText>A description of how long the account holder will be attending the college or institution if the account holder is a non resident alien. Form specific for the Application for IRS Individual Taxpayer Identification Number (W-7).</inlineHelpText>
+    <label>Form W7 College Duration</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

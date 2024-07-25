@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A description of the other reason the application for US Individual Taxpayer Identification Number is being submitted. --></help>
+    <label><!-- Form W7 Type Other --></label>
+    <name>LLC_BI__Form_W7_Type_Other__c</name>
+</CustomFieldTranslation>

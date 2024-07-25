@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Product__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The required picklist field is manually populated and specifies the Product. The options for this field are dependent on the Product Line and Product Type field.</description>
+    <label>Product</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>LLC_BI__Product_Type__c</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Construction</fullName>
+                <default>false</default>
+                <label>Construction</label>
+            </value>
+            <value>
+                <fullName>Line of Credit</fullName>
+                <default>false</default>
+                <label>Line of Credit</label>
+            </value>
+            <value>
+                <fullName>Term Loan</fullName>
+                <default>false</default>
+                <label>Term Loan</label>
+            </value>
+            <value>
+                <fullName>Equipment</fullName>
+                <default>false</default>
+                <label>Equipment</label>
+            </value>
+            <value>
+                <fullName>Syndication</fullName>
+                <default>false</default>
+                <label>Syndication</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Construction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Line of Credit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Term Loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Syndication</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Non Real Estate</controllingFieldValue>
+            <valueName>Equipment</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

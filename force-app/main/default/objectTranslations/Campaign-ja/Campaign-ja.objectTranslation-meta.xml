@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <webLinks>
+        <label>キャンペーンの影響レポートを表示</label>
+        <name>LLC_BI__ViewCampaignInfluenceReport</name>
+    </webLinks>
+    <webLinks>
+        <label>キャンペーンメンバーをすべて表示</label>
+        <name>ViewAllCampaignMembers</name>
+    </webLinks>
+    <webLinks>
+        <label>キャンペーンの影響レポートを表示</label>
+        <name>ViewCampaignInfluenceReport</name>
+    </webLinks>
+    <webLinks>
+        <label>キャンペーンの影響レポートを表示</label>
+        <name>nFORMS__ViewCampaignInfluenceReport</name>
+    </webLinks>
+</CustomObjectTranslation>

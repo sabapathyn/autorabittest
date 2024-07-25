@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Referred_To__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist specifies whether the lead was referred to another financial institution, another branch or maybe another department. It can be controlled by the financial institution. It is optional and manually populated.</description>
+    <label>Referred To</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>BofA</fullName>
+                <default>false</default>
+                <label>BofA</label>
+            </value>
+            <value>
+                <fullName>PPC</fullName>
+                <default>false</default>
+                <label>PPC</label>
+            </value>
+            <value>
+                <fullName>Wells Fargo</fullName>
+                <default>false</default>
+                <label>Wells Fargo</label>
+            </value>
+            <value>
+                <fullName>US Bank</fullName>
+                <default>false</default>
+                <label>US Bank</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

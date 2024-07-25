@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RMOR__New_Mortgage</fullName>
+    <availability>online</availability>
+    <description>The user selects this button to initiate a new residential mortgage loan application.</description>
+    <displayType>button</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>New Mortgage</masterLabel>
+    <openType>sidebar</openType>
+    <page>RMOR__NewMortgage</page>
+    <protected>false</protected>
+</WebLink>

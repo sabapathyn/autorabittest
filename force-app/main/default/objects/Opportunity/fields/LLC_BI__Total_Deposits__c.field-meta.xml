@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Total_Deposits__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is automatically populated based on the total amount (currency) of the deposits of the account/ relationship associated to the opportunity. This information is mapped from the relationship if deposit level detail is available.</description>
+    <label>Total Deposits</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

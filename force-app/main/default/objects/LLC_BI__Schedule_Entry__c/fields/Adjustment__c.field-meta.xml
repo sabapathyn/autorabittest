@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Adjustment__c</fullName>
+    <description>For the user to adjust the reported value of the item/row</description>
+    <inlineHelpText>User adjustment to the reported value</inlineHelpText>
+    <label>Adjustment</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

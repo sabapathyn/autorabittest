@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>このフィールドは、規則oがこの関係に適用されるかどうかを確認する必要があります。</help>
+    <label><!-- Reg O Relationship --></label>
+    <name>LLC_BI__Reg_O_Relationship__c</name>
+</CustomFieldTranslation>

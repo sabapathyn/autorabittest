@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Checked for active steps.  This field can be used to temporarily deactivate a step. --></help>
+    <label><!-- Active --></label>
+    <name>Active__c</name>
+</CustomFieldTranslation>

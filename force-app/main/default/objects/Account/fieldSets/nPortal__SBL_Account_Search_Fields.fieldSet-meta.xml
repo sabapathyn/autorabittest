@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__SBL_Account_Search_Fields</fullName>
+    <description>Fields included in SBL Online Application Account Search results</description>
+    <displayedFields>
+        <field>Id</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Name</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>BillingStreet</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>BillingCity</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>BillingState</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>BillingPostalCode</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Type</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Industry</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <label>SBL Account Search Fields</label>
+</FieldSet>

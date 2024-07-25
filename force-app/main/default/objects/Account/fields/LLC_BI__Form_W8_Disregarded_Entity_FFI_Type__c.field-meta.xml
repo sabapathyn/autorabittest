@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Disregarded_Entity_FFI_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. If the account holder is a disregarded entity or branch of a disregarded entity that is a Foreign Financial Institution (FFI), enter the type of FFI (for purposes of IRS Forms W-8, e.g., form W-8BEN-E).</description>
+    <inlineHelpText>If the account holder is a disregarded entity or branch of a disregarded entity that is a Foreign Financial Institution (FFI), enter the type of FFI (for purposes of IRS Forms W-8, e.g., form W-8BEN-E).</inlineHelpText>
+    <label>Form W8 Disregarded Entity FFI Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Nonparticipating FFI</fullName>
+                <default>false</default>
+                <label>Nonparticipating FFI</label>
+            </value>
+            <value>
+                <fullName>Participating FFI</fullName>
+                <default>false</default>
+                <label>Participating FFI</label>
+            </value>
+            <value>
+                <fullName>Reporting Model 1 FFI</fullName>
+                <default>false</default>
+                <label>Reporting Model 1 FFI</label>
+            </value>
+            <value>
+                <fullName>Reporting Model 2 FFI</fullName>
+                <default>false</default>
+                <label>Reporting Model 2 FFI</label>
+            </value>
+            <value>
+                <fullName>U.S. Branch</fullName>
+                <default>false</default>
+                <label>U.S. Branch</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Date_of_Establishment__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate the date on which the account holder was established. This is applicable when the account holder is an entity.</description>
+    <inlineHelpText>Enter the date on which the account holder was established, when the account holder is an entity.</inlineHelpText>
+    <label>Date of Establishment</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

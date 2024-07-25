@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__SubType__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is not required. This field is manually populated. This field describes the current Maintenance type for a particluar Maintenance Task. It is dependent on the LLC_BI__Maintenance_Type__c (Maintenance Category)</description>
+    <label>Maintenance Type</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>LLC_BI__Maintenance_Type__c</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Credit Limit Change</fullName>
+                <default>false</default>
+                <label>Credit Limit Change</label>
+            </value>
+            <value>
+                <fullName>Address Change</fullName>
+                <default>false</default>
+                <label>Address Change</label>
+            </value>
+            <value>
+                <fullName>Add Authorized User</fullName>
+                <default>false</default>
+                <label>Add Authorized User</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Add</controllingFieldValue>
+            <valueName>Add Authorized User</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Add</controllingFieldValue>
+            <controllingFieldValue>Change</controllingFieldValue>
+            <controllingFieldValue>Remove</controllingFieldValue>
+            <valueName>Other</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Change</controllingFieldValue>
+            <valueName>Credit Limit Change</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Change</controllingFieldValue>
+            <valueName>Address Change</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

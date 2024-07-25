@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Max_Rate_Adjustment__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional field to adjust the maximum interest rate calculated by the rate sheet. By default, it is blank.</description>
+    <label>Max Rate Adjustment</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>8</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Percent</type>
+</CustomField>

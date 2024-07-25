@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RMOR__Borrower_Details</fullName>
+    <description>The user populates these fields with information about the borrower(s) during the pre-approval or loan application process.</description>
+    <displayedFields>
+        <field>LLC_BI__Social_Insurance_Number__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Birthdate</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Borrower Details</label>
+</FieldSet>

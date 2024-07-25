@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Is_Non_Customer__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional boolean field on the contact when the entity is not a customer. By default, this field is false.</description>
+    <inlineHelpText>Select this checkbox when the added entity is not a customer.</inlineHelpText>
+    <label>Is Non-Customer</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

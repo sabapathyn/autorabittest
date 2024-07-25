@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__Create_Portal_User</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>Manage Customer Portal</masterLabel>
+    <openType>sidebar</openType>
+    <page>nPortal__ManagePortalUserFromAccount</page>
+    <protected>false</protected>
+</WebLink>

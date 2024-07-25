@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Declination_Notice_Date__c</fullName>
+    <description>A date/time stamp of when the applicant was provided with the declination notice.</description>
+    <inlineHelpText>This is auto-populated when the deposit was applied or via Online Application.</inlineHelpText>
+    <label>Declination Notice Date</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>

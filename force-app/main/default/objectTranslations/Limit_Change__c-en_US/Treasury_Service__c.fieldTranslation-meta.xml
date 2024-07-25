@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Treasury Service --></label>
+    <name>Treasury_Service__c</name>
+    <relationshipLabel><!-- Limit Changes --></relationshipLabel>
+</CustomFieldTranslation>

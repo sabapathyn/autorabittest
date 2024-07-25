@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Restricted_Distributor_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It indicates the distribution agreement type for the Restricted Distributor, which must contain either (1) previous as well as current US sales prohibitions; or (2) only current US sales prohibitions coupled with preexisting account review, as the...</description>
+    <inlineHelpText>Indicates type of distribution agreement type for the Restricted Distributor.</inlineHelpText>
+    <label>Form W8 Restricted Distributor Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Previous and Current US Sales Prohibition</fullName>
+                <default>false</default>
+                <label>Previous and Current US Sales Prohibition</label>
+            </value>
+            <value>
+                <fullName>Current Prohibition Plus Preexisting Accounts Review Completed</fullName>
+                <default>false</default>
+                <label>Current Prohibition Plus Preexisting Accounts Review Completed</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

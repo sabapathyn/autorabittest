@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>本欄は本口座に関連する最高債務者区分融資について手動で生成されるべきです。</help>
+    <label>格付け</label>
+    <name>LLC_BI__Highest_Risk_Grade__c</name>
+</CustomFieldTranslation>

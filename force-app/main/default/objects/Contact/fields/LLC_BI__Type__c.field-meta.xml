@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. This field is used to specify the type of contact for this record. Typical pick list entries might include borrower, professional, referral source, or prospect. The value provided must match one of the values in the type pick list established for this organization.</description>
+    <label>Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Primary</fullName>
+                <default>false</default>
+                <label>Primary</label>
+            </value>
+            <value>
+                <fullName>Professional Contact</fullName>
+                <default>false</default>
+                <label>Professional Contact</label>
+            </value>
+            <value>
+                <fullName>Referral Source</fullName>
+                <default>false</default>
+                <label>Referral Source</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

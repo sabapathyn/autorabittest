@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>LLC_BI__Loan__c</entityName>
+    <fieldName>LLC_BI__Stage__c</fieldName>
+    <masterLabel>Loan Stage</masterLabel>
+    <pathAssistantSteps>
+        <fieldNames>LLC_BI__Closed_Date__c</fieldNames>
+        <info>&lt;p&gt;&lt;b&gt;LENDER&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Complete loan terms, borrowing structure, rate and payment structure, and other fields as needed &lt;/li&gt;&lt;li&gt;Add collateral&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;LOAN COORDINATOR&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Loan Number&lt;/li&gt;&lt;li&gt;Complete Application Date &lt;/li&gt;&lt;li&gt;Pull credit, order reports as needed&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</info>
+        <picklistValueName>Qualification</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>Commercial</recordTypeName>
+</PathAssistant>

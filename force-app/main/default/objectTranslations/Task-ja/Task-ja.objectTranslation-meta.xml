@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Existing Maintenance --></label>
+        <name>LLC_BI__Existing_Maintenance</name>
+    </fieldSets>
+    <fieldSets>
+        <label>メンテナンスUI</label>
+        <name>LLC_BI__Maintenance_UI</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Tasks --></label>
+        <name>LLC_BI__UI_Tasks</name>
+    </fieldSets>
+    <recordTypes>
+        <label>メンテナンスタスク</label>
+        <name>LLC_BI__Maintenance_Task</name>
+    </recordTypes>
+</CustomObjectTranslation>

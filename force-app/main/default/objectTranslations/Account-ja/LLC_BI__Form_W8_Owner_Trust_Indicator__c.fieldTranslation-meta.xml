@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates the beneficial owner certifies it is an owner-documented FFI that is also a Trust without contingent or other unidentified beneficiaries, as prescribed by IRS forms W-8. --></help>
+    <label><!-- Form W8 Owner Trust Indicator --></label>
+    <name>LLC_BI__Form_W8_Owner_Trust_Indicator__c</name>
+</CustomFieldTranslation>

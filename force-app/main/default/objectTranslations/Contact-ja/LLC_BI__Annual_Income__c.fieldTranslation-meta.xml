@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>申込者の年間所得をご記入ください。</help>
+    <label>年間所得</label>
+    <name>LLC_BI__Annual_Income__c</name>
+</CustomFieldTranslation>

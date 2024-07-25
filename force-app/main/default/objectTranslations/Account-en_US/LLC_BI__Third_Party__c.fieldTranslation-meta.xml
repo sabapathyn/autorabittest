@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the third party type of the added entity. --></help>
+    <label><!-- Third Party Type --></label>
+    <name>LLC_BI__Third_Party__c</name>
+    <picklistValues>
+        <masterLabel>Appraiser</masterLabel>
+        <translation><!-- Appraiser --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Attorney</masterLabel>
+        <translation><!-- Attorney --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inactive</masterLabel>
+        <translation><!-- Inactive --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inspector</masterLabel>
+        <translation><!-- Inspector --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insurance Agency</masterLabel>
+        <translation><!-- Insurance Agency --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

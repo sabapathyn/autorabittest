@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan_Amount__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field shows the amount of the opportunity and whether it is a loan, deposit, etc. It is optional and manually populated.</description>
+    <inlineHelpText>The amount of the opportunity, whether it&apos;s a loan, deposit, etc.</inlineHelpText>
+    <label>Opportunity Amount</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Currency</type>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Birth_Country__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users enter the birth country of the account holder in this optional field.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the birth country of the account holder.</inlineHelpText>
+    <label>Birth Country</label>
+    <length>40</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

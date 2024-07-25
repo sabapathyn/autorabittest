@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Flow_Setting__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Define if this is a flow setting or a statistics setting</description>
+    <inlineHelpText>Define if this is a flow setting or a statistics setting</inlineHelpText>
+    <label>Flow Setting</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

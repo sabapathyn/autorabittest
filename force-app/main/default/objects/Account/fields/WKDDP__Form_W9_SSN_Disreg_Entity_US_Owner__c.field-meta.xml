@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W9_SSN_Disreg_Entity_US_Owner__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional field with the social security number of the disregarded entity&apos;s primary owner if that party is an individual.</description>
+    <inlineHelpText>Enter the social security number of the disregarded entity&apos;s primary owner if that party is an individual.</inlineHelpText>
+    <label>Form W9 SSN Disregarded Entity US Owner</label>
+    <length>80</length>
+    <maskChar>X</maskChar>
+    <maskType>ssn</maskType>
+    <required>false</required>
+    <type>EncryptedText</type>
+</CustomField>

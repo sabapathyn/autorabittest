@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user. This field is a picklist used to specify the status of the account.</description>
+    <label>Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Prospect</fullName>
+                <default>true</default>
+                <label>Prospect</label>
+            </value>
+            <value>
+                <fullName>Customer</fullName>
+                <default>false</default>
+                <label>Customer</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

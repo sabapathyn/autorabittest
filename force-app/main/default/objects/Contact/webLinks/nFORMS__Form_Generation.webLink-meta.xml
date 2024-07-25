@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nFORMS__Form_Generation</fullName>
+    <availability>online</availability>
+    <description>Opens the Form Generation screen.</description>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>Form Generation</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>window.location =&apos;/apex/nFORMS__FormGenerator?Type=Contact&amp;Id={!Contact.Id}&apos;</url>
+</WebLink>

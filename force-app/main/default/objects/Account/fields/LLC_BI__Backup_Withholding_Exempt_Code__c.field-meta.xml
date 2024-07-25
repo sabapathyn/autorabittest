@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Backup_Withholding_Exempt_Code__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. The code representing the party&apos;s reason for claiming exemption from backup withholding. The numeric codes are defined by the instructions contained within IRS Form W-9.</description>
+    <inlineHelpText>The code representing the party&apos;s reason for claiming exemption from backup withholding. The numeric codes are defined by the instructions contained within IRS Form W-9.</inlineHelpText>
+    <label>Backup Withholding Exempt Code</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>IRA or qualifying 501(a) or 403(b)(7) account</fullName>
+                <default>false</default>
+                <label>IRA or qualifying 501(a) or 403(b)(7) account</label>
+            </value>
+            <value>
+                <fullName>U.S. agency or instrumentality</fullName>
+                <default>false</default>
+                <label>U.S. agency or instrumentality</label>
+            </value>
+            <value>
+                <fullName>U.S. State, District, possession</fullName>
+                <default>false</default>
+                <label>U.S. State, District, possession</label>
+            </value>
+            <value>
+                <fullName>Foreign government, agency or instrumentality</fullName>
+                <default>false</default>
+                <label>Foreign government, agency or instrumentality</label>
+            </value>
+            <value>
+                <fullName>Corporation</fullName>
+                <default>false</default>
+                <label>Corporation</label>
+            </value>
+            <value>
+                <fullName>U.S. registered securities or commodities dealer</fullName>
+                <default>false</default>
+                <label>U.S. registered securities or commodities dealer</label>
+            </value>
+            <value>
+                <fullName>CFTC-registered futures commission merchant</fullName>
+                <default>false</default>
+                <label>CFTC-registered futures commission merchant</label>
+            </value>
+            <value>
+                <fullName>Real Estate Investment Trust</fullName>
+                <default>false</default>
+                <label>Real Estate Investment Trust</label>
+            </value>
+            <value>
+                <fullName>Fegistered under Investment Company Act</fullName>
+                <default>false</default>
+                <label>Fegistered under Investment Company Act</label>
+            </value>
+            <value>
+                <fullName>Bank-operated 584(a) trust fund</fullName>
+                <default>false</default>
+                <label>Bank-operated 584(a) trust fund</label>
+            </value>
+            <value>
+                <fullName>Financial institution</fullName>
+                <default>false</default>
+                <label>Financial institution</label>
+            </value>
+            <value>
+                <fullName>Investment community nominee</fullName>
+                <default>false</default>
+                <label>Investment community nominee</label>
+            </value>
+            <value>
+                <fullName>Section 664 trust</fullName>
+                <default>false</default>
+                <label>Section 664 trust</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

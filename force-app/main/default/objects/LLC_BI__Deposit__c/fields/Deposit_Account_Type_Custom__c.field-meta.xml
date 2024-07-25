@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Deposit_Account_Type_Custom__c</fullName>
+    <description>Custom field to capture the deposit account type for MagicWrighter Funding.</description>
+    <externalId>false</externalId>
+    <formula>IF(
+ISPICKVAL(LLC_BI__Product_Reference__r.LLC_BI__Product_Type__r.LLC_BI__Category__c, &apos;Checking&apos;), &apos;Checking&apos;,
+IF(
+ISPICKVAL(LLC_BI__Product_Reference__r.LLC_BI__Product_Type__r.LLC_BI__Category__c, &apos;Savings&apos;), &apos;Savings&apos;,
+IF(
+ISPICKVAL(LLC_BI__Product_Reference__r.LLC_BI__Product_Type__r.LLC_BI__Category__c, &apos;Certificate of Deposit&apos;), &apos;Savings&apos;, &apos;&apos;)))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Deposit Account Type Custom</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

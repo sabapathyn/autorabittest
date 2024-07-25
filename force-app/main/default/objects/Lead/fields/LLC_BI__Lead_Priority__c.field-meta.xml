@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Lead_Priority__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field specifies the priority of the financial institution&apos;s Lead. It is optional and manually populated.</description>
+    <label>Lead Priority</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Hot</fullName>
+                <default>false</default>
+                <label>Hot</label>
+            </value>
+            <value>
+                <fullName>Warm</fullName>
+                <default>true</default>
+                <label>Warm</label>
+            </value>
+            <value>
+                <fullName>Cold</fullName>
+                <default>false</default>
+                <label>Cold</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

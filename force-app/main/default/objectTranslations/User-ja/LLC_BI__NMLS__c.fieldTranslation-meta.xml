@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>ユーザーの固有の国家住宅ローンライセンスシステム（NMLS）番号を入力してください。</help>
+    <label><!-- NMLS --></label>
+    <name>LLC_BI__NMLS__c</name>
+</CustomFieldTranslation>

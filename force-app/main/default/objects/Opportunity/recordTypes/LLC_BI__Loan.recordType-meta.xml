@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan</fullName>
+    <active>false</active>
+    <businessProcess>LLC_BI__Loan</businessProcess>
+    <description>Select for a New Loan Opportunity</description>
+    <label>Loan</label>
+    <picklistValues>
+        <picklist>ForecastCategoryName</picklist>
+        <values>
+            <fullName>Best Case</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Commit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Omitted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pipeline</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Closed_Lost_Reason__c</picklist>
+        <values>
+            <fullName>Competitor- Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Competitor- Price</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Competitor- Product%2FService Set Gap%2C</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Competitor-Product%2FService Functionality Gap</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Does not need services</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lost Loan Relationship%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Price</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Product%2FService Functionality Gap</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Product%2FService Gap</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Competitor__c</picklist>
+        <values>
+            <fullName>Anchor Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Associated</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BMO Harris</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BOA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bank of America</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chase</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fifth Third</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>First Midwest</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MB</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>PNC</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Smaller Community Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The Private Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>US Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wells Fargo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wintrust</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Current_Bank__c</picklist>
+        <values>
+            <fullName>Anchor Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Associated</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BMO Harris</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BOA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bank of America</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chase</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fifth Third</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>First Midwest</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MB</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>PNC</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Smaller Community Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>The Private Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>US Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wells Fargo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wintrust</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__DeliveryInstallationStatus__c</picklist>
+        <values>
+            <fullName>Completed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>In progress</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yet to begin</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Product_Line__c</picklist>
+        <values>
+            <fullName>Commercial</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Retail</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Product_Type__c</picklist>
+        <values>
+            <fullName>Auto Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Line of Credit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non Real Estate</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Real Estate</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Product__c</picklist>
+        <values>
+            <fullName>Construction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Equipment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Line of Credit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Auto Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Revolving Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Syndication</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Term Loan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Used Auto Loan</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LLC_BI__Prospect_Location_Scope__c</picklist>
+        <values>
+            <fullName>International</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Local</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>National</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Regional</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LeadSource</picklist>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Web</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Opportunity_Code__c</picklist>
+        <values>
+            <fullName>100</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>200</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>300</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>400</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>500</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

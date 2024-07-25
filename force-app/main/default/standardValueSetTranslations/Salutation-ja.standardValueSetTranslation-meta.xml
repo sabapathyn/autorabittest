@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Dr.</masterLabel>
+        <translation>博士</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Mr.</masterLabel>
+        <translation>男性</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Mrs.</masterLabel>
+        <translation>女性（既婚）</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Ms.</masterLabel>
+        <translation><!-- Ms. --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Mx.</masterLabel>
+        <translation><!-- Mx. --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Prof.</masterLabel>
+        <translation>教授</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__Sharing_History__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This long text field is automatically populated upon the deactivation of a Customer Portal User. It is used to capture all of the records to which the Portal User had sharing access.</description>
+    <inlineHelpText>This long text field is automatically populated upon the deactivation of a Customer Portal User. It is used to capture all of the records to which the Portal User had sharing access.</inlineHelpText>
+    <label>Customer Portal Sharing History</label>
+    <length>130000</length>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

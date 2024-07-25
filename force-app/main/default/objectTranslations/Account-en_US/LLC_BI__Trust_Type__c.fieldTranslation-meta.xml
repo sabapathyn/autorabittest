@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the trust type based on whether the trust grantor (creator) is the same or different from the trustee or if the grantor is deceased. --></help>
+    <label><!-- Trust Type --></label>
+    <name>LLC_BI__Trust_Type__c</name>
+    <picklistValues>
+        <masterLabel>Declaration of trust (grantor and trustee same)</masterLabel>
+        <translation><!-- Declaration of trust (grantor and trustee same) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Testamentary trust (under will of deceased grantor)</masterLabel>
+        <translation><!-- Testamentary trust (under will of deceased grantor) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trust under agreement (grantor and trustee different)</masterLabel>
+        <translation><!-- Trust under agreement (grantor and trustee different) --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

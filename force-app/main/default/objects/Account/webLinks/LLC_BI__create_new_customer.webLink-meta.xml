@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__create_new_customer</fullName>
+    <availability>online</availability>
+    <description>Sends user to customer creation workflow</description>
+    <displayType>massActionButton</displayType>
+    <linkType>page</linkType>
+    <masterLabel>Create New Customer</masterLabel>
+    <openType>replace</openType>
+    <page>LLC_BI__Enterprise_Onboarding_From_List</page>
+    <protected>false</protected>
+    <requireRowSelection>true</requireRowSelection>
+</WebLink>

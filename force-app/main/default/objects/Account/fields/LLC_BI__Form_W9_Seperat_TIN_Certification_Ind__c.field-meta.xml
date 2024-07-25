@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W9_Seperat_TIN_Certification_Ind__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. If true, a separate TIN certification (i.e. a W-9) is desired.</description>
+    <inlineHelpText>If true a separate TIN certification (i.e. a W-9) is desired.</inlineHelpText>
+    <label>Form W9 Seperat TIN Certification</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

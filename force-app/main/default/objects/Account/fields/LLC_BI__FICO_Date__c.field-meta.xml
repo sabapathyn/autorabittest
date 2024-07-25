@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__FICO_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated automatically by the Credit Services integration. This field is used to specify the date of most recent FICO score inquiry.</description>
+    <label>FICO Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

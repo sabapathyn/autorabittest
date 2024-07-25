@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>間接エクスポージャー総計</help>
+    <label>間接エクスポージャー総計</label>
+    <name>LLC_BI__Total_Indirect_Exposure__c</name>
+</CustomFieldTranslation>

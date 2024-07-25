@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The article number of the treaty under which the account holder receives benefits. --></help>
+    <label><!-- Form W7 Treaty Article Number --></label>
+    <name>LLC_BI__Form_W7_Treaty_Article_Number__c</name>
+</CustomFieldTranslation>

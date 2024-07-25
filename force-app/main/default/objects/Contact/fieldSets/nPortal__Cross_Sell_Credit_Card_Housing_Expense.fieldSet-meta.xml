@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__Cross_Sell_Credit_Card_Housing_Expense</fullName>
+    <description>This field set displays on the Credit Card Offer page where the applicant can select whether they Rent or Own.</description>
+    <displayedFields>
+        <field>Id</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Housing_Expense__c</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <label>Cross-Sell Credit Card Housing Expense</label>
+</FieldSet>

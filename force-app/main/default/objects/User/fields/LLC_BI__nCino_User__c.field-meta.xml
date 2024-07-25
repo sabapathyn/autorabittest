@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__nCino_User__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is automatically populated as enabled. This field indicates whether the user has a license for the nCino Platform or not.</description>
+    <formula>TRUE</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>nCino User</label>
+    <type>Checkbox</type>
+</CustomField>

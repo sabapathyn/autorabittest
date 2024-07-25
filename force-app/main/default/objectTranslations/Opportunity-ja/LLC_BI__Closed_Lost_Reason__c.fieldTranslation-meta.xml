@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>失注案件理由</label>
+    <name>LLC_BI__Closed_Lost_Reason__c</name>
+    <picklistValues>
+        <masterLabel>Competitor- Other</masterLabel>
+        <translation>競合 - その他</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Competitor- Price</masterLabel>
+        <translation>競合金額</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Competitor- Product/Service Set Gap,</masterLabel>
+        <translation>競合他社 - 製品/サービスセットギャップ、</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Competitor-Product/Service Functionality Gap</masterLabel>
+        <translation>競合他社 - 製品/サービス機能ギャップ</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Does not need services</masterLabel>
+        <translation>サービスは必要ありません</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lost Loan Relationship.</masterLabel>
+        <translation>融資取引先を失いました。</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Price</masterLabel>
+        <translation>価格</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product/Service Functionality Gap</masterLabel>
+        <translation>商品/サービス機能ギャップ</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product/Service Gap</masterLabel>
+        <translation>商品/サービスギャップ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

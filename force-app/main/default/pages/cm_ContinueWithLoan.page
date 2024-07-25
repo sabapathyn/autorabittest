@@ -1,0 +1,6 @@
+<apex:page showHeader="false" sidebar="false" controller="nFORCE.TemplateController">
+    <nFORCE:Include_Navigator />
+    <script>
+        LifeCycle.Navigator.navigateToSObject('{!contextObjectId}');
+    </script>
+</apex:page>

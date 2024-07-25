@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W9_EntyType_Disreg_Enty_US_Owner__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users select the disregarded entity&apos;s non-disregarded owner type from this optional picklist.</description>
+    <inlineHelpText>Select the disregarded entity&apos;s non-disregarded owner type from this optional picklist.</inlineHelpText>
+    <label>Form W9 Enty Typ of Disreg Enty US Owner</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Association</fullName>
+                <default>false</default>
+                <label>Association</label>
+            </value>
+            <value>
+                <fullName>Cooperative</fullName>
+                <default>false</default>
+                <label>Cooperative</label>
+            </value>
+            <value>
+                <fullName>Corporation</fullName>
+                <default>false</default>
+                <label>Corporation</label>
+            </value>
+            <value>
+                <fullName>Domestic Government Unit</fullName>
+                <default>false</default>
+                <label>Domestic Government Unit</label>
+            </value>
+            <value>
+                <fullName>Estate</fullName>
+                <default>false</default>
+                <label>Estate</label>
+            </value>
+            <value>
+                <fullName>Financial Institution</fullName>
+                <default>false</default>
+                <label>Financial Institution</label>
+            </value>
+            <value>
+                <fullName>Foreign Government Unit</fullName>
+                <default>false</default>
+                <label>Foreign Government Unit</label>
+            </value>
+            <value>
+                <fullName>General Partnership</fullName>
+                <default>false</default>
+                <label>General Partnership</label>
+            </value>
+            <value>
+                <fullName>Limited Liability Company</fullName>
+                <default>false</default>
+                <label>Limited Liability Company</label>
+            </value>
+            <value>
+                <fullName>Limited Liability Partnership</fullName>
+                <default>false</default>
+                <label>Limited Liability Partnership</label>
+            </value>
+            <value>
+                <fullName>Limited Partnership</fullName>
+                <default>false</default>
+                <label>Limited Partnership</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>Sole Proprietorship</fullName>
+                <default>false</default>
+                <label>Sole Proprietorship</label>
+            </value>
+            <value>
+                <fullName>Trust</fullName>
+                <default>false</default>
+                <label>Trust</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__review</fullName>
+    <availability>online</availability>
+    <description>relationship review button</description>
+    <displayType>button</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>Review</masterLabel>
+    <openType>sidebar</openType>
+    <page>LLC_BI__AccountReview</page>
+    <protected>false</protected>
+</WebLink>

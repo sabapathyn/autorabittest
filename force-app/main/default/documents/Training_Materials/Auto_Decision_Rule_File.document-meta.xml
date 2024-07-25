@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Use this file for importing Auto Decision Rules for Auto Decision exercise - BH</description>
+    <internalUseOnly>false</internalUseOnly>
+    <name>Auto Decision Rule File</name>
+    <public>false</public>
+</Document>

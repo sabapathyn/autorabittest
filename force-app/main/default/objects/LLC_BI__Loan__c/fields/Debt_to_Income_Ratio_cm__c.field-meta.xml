@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Debt_to_Income_Ratio_cm__c</fullName>
+    <formula>IF(LLC_BI__Total_Monthly_Income__c &gt; 0 , (LLC_BI__Total_Monthly_Debt__c - LLC_BI__Monthly_Payment__c ) / LLC_BI__Total_Monthly_Income__c, null)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Debt to Income Ratio</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>3</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Percent</type>
+</CustomField>

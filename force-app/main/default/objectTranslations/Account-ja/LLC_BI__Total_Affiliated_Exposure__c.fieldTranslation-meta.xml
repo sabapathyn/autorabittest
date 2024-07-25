@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>関係者 債務 エクスポージャー総計</label>
+    <name>LLC_BI__Total_Affiliated_Exposure__c</name>
+</CustomFieldTranslation>

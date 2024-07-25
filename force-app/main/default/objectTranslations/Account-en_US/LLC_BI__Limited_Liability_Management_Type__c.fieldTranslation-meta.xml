@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Limited Liability Management Type --></label>
+    <name>LLC_BI__Limited_Liability_Management_Type__c</name>
+    <picklistValues>
+        <masterLabel>Manager Managed</masterLabel>
+        <translation><!-- Manager Managed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Member Managed</masterLabel>
+        <translation><!-- Member Managed --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

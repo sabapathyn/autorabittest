@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Annual_Income__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional currency field with the applicant&apos;s annual income. By default, it is blank.</description>
+    <inlineHelpText>Enter the applicant&apos;s annual income.</inlineHelpText>
+    <label>Annual Income</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Currency</type>
+</CustomField>

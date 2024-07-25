@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The name under which the previous employer identification number for the account holder was issued. --></help>
+    <label><!-- Former Employer Name --></label>
+    <name>LLC_BI__Former_Employer_Name__c</name>
+</CustomFieldTranslation>

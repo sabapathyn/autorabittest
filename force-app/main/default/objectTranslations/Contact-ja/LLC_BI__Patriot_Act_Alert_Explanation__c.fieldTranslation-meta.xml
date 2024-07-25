@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>テキストフィールドは自動的にユーザーに登録されている攻撃に関する情報を入力します。</help>
+    <label>Patriot Act Alertの説明</label>
+    <name>LLC_BI__Patriot_Act_Alert_Explanation__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Closed_Lost_Reason__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist field is manually selected and optional. The picklist allows a user to select preset reasons for why the Opportunity was Closed Lost.</description>
+    <label>Closed Lost Reason</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Competitor- Other</fullName>
+                <default>false</default>
+                <label>Competitor- Other</label>
+            </value>
+            <value>
+                <fullName>Competitor- Price</fullName>
+                <default>false</default>
+                <label>Competitor- Price</label>
+            </value>
+            <value>
+                <fullName>Competitor-Product/Service Functionality Gap</fullName>
+                <default>false</default>
+                <label>Competitor-Product/Service Functionality Gap</label>
+            </value>
+            <value>
+                <fullName>Competitor- Product/Service Set Gap,</fullName>
+                <default>false</default>
+                <label>Competitor- Product/Service Set Gap,</label>
+            </value>
+            <value>
+                <fullName>Does not need services</fullName>
+                <default>false</default>
+                <label>Does not need services</label>
+            </value>
+            <value>
+                <fullName>Lost Loan Relationship.</fullName>
+                <default>false</default>
+                <label>Lost Loan Relationship.</label>
+            </value>
+            <value>
+                <fullName>Price</fullName>
+                <default>false</default>
+                <label>Price</label>
+            </value>
+            <value>
+                <fullName>Product/Service Functionality Gap</fullName>
+                <default>false</default>
+                <label>Product/Service Functionality Gap</label>
+            </value>
+            <value>
+                <fullName>Product/Service Gap</fullName>
+                <default>false</default>
+                <label>Product/Service Gap</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan_Auto_Decision_Data</fullName>
+    <description>The Relationship Criteria Section on the Loan Auto-Decision scorecard page for accounts.</description>
+    <displayedFields>
+        <field>LLC_BI__FICO_Score__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Risk_Rating_Review_Grade__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Debt_Service_Coverage__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Loan Auto-Decision Criteria</label>
+</FieldSet>

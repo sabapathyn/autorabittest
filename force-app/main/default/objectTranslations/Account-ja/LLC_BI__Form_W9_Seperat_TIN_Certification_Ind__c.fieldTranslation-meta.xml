@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true a separate TIN certification (i.e. a W-9) is desired. --></help>
+    <label><!-- Form W9 Seperat TIN Certification --></label>
+    <name>LLC_BI__Form_W9_Seperat_TIN_Certification_Ind__c</name>
+</CustomFieldTranslation>

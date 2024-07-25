@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Date</masterLabel>
+        <translation>期日</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Image</masterLabel>
+        <translation>画像</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Link</masterLabel>
+        <translation>リンク</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Text</masterLabel>
+        <translation>テキスト</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

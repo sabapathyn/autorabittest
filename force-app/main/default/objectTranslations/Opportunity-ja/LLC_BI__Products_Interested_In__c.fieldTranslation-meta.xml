@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>関心ある商品</label>
+    <name>LLC_BI__Products_Interested_In__c</name>
+</CustomFieldTranslation>

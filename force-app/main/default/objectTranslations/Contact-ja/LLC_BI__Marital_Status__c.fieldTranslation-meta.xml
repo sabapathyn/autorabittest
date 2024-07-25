@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>本欄はコンタクト先の配偶者の有無を設定するために使用される。</help>
+    <label>配偶者の有無</label>
+    <name>LLC_BI__Marital_Status__c</name>
+    <picklistValues>
+        <masterLabel>Legally Separated</masterLabel>
+        <translation>法的に分離</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Married</masterLabel>
+        <translation>既婚</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unmarried</masterLabel>
+        <translation>未婚</translation>
+    </picklistValues>
+</CustomFieldTranslation>

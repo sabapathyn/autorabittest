@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New_Small_Business_Loan</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>New Small Business Loan</masterLabel>
+    <openType>noSidebar</openType>
+    <page>nRetail__NewLoan</page>
+    <protected>false</protected>
+</WebLink>

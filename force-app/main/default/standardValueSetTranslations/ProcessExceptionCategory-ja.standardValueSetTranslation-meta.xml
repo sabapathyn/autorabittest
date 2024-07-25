@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Fulfillment</masterLabel>
+        <translation>充実した</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Invoicing</masterLabel>
+        <translation>請求書</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Order Activation</masterLabel>
+        <translation>オーダー有効化</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Order Approval</masterLabel>
+        <translation>承認オーダー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Payment</masterLabel>
+        <translation>支払い</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Place Order</masterLabel>
+        <translation><!-- Place Order --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

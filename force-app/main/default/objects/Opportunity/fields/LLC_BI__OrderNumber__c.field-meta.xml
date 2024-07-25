@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__OrderNumber__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This text field is manually entered and optional. It is used to specify the financial institution&apos;s unique number ( order number) for this opportunity if it differs from the Salesforce record number automatically assigned to it upon creation.</description>
+    <externalId>false</externalId>
+    <label>Order Number</label>
+    <length>8</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Start Date at Current Stage</label>
+    <name>LLC_BI__Start_Date_at_Current_Stage__c</name>
+</CustomFieldTranslation>

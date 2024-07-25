@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the IRS Form W-9 federal tax classification for the account holder where the account holder is a corporation, limited liability corporation, or disregarded entity. --></help>
+    <label><!-- Form W9 Tax Classification Type --></label>
+    <name>WKDDP__Form_W9_Tax_Classification_Type__c</name>
+    <picklistValues>
+        <masterLabel>C Corporation</masterLabel>
+        <translation><!-- C Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Disregarded Entity</masterLabel>
+        <translation><!-- Disregarded Entity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>LLC</masterLabel>
+        <translation><!-- LLC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Partnership</masterLabel>
+        <translation><!-- Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>S Corporation</masterLabel>
+        <translation><!-- S Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Single-Member</masterLabel>
+        <translation><!-- Single-Member --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__OFAC_Check_Completion_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The date in which the latest OFAC check was run for a given individual. This field is optional and can be edited via the customer creation workflow.</description>
+    <label>OFAC Check Completion Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

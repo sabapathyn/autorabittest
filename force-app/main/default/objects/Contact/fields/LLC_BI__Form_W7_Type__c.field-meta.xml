@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. Specifies the reason the account holder is submitting an application for an IRS Individual Taxpayer Identification Number.</description>
+    <inlineHelpText>Specifies the reason the account holder is submitting an application for an IRS Individual Taxpayer Identification Number.</inlineHelpText>
+    <label>Form W7 Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Nonresident Alien Tax Treaty</fullName>
+                <default>false</default>
+                <label>Nonresident Alien Tax Treaty</label>
+            </value>
+            <value>
+                <fullName>Nonresident Alien Filing Tax Return</fullName>
+                <default>false</default>
+                <label>Nonresident Alien Filing Tax Return</label>
+            </value>
+            <value>
+                <fullName>Resident Alien Filing Tax Return</fullName>
+                <default>false</default>
+                <label>Resident Alien Filing Tax Return</label>
+            </value>
+            <value>
+                <fullName>Citizen Dependent</fullName>
+                <default>false</default>
+                <label>Citizen Dependent</label>
+            </value>
+            <value>
+                <fullName>Citizen Spouse</fullName>
+                <default>false</default>
+                <label>Citizen Spouse</label>
+            </value>
+            <value>
+                <fullName>Nonresident Alien Student, Professor, or Researcher</fullName>
+                <default>false</default>
+                <label>Nonresident Alien Student, Professor, or Researcher</label>
+            </value>
+            <value>
+                <fullName>Dependent or Spouse of Nonresident Alien</fullName>
+                <default>false</default>
+                <label>Dependent or Spouse of Nonresident Alien</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Product__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist field is manually selected and will filter based on product line and product type selections. This is a required field to be able to convert to nCino. The field is used to specify the opportunity&apos;s particular product  Use either the reference or the picklist field.</description>
+    <label>Product</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>LLC_BI__Product_Type__c</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Construction</fullName>
+                <default>false</default>
+                <label>Construction</label>
+            </value>
+            <value>
+                <fullName>Revolving Credit Card</fullName>
+                <default>false</default>
+                <label>Revolving Credit Card</label>
+            </value>
+            <value>
+                <fullName>New Auto Loan</fullName>
+                <default>false</default>
+                <label>New Auto Loan</label>
+            </value>
+            <value>
+                <fullName>Used Auto Loan</fullName>
+                <default>false</default>
+                <label>Used Auto Loan</label>
+            </value>
+            <value>
+                <fullName>Line of Credit</fullName>
+                <default>false</default>
+                <label>Line of Credit</label>
+            </value>
+            <value>
+                <fullName>Term Loan</fullName>
+                <default>false</default>
+                <label>Term Loan</label>
+            </value>
+            <value>
+                <fullName>Syndication</fullName>
+                <default>false</default>
+                <label>Syndication</label>
+            </value>
+            <value>
+                <fullName>Equipment</fullName>
+                <default>false</default>
+                <label>Equipment</label>
+            </value>
+            <value>
+                <fullName>Commercial Checking Account</fullName>
+                <default>false</default>
+                <label>Commercial Checking Account</label>
+            </value>
+            <value>
+                <fullName>Commercial Savings Account</fullName>
+                <default>false</default>
+                <label>Commercial Savings Account</label>
+            </value>
+            <value>
+                <fullName>Preferred Checking Account</fullName>
+                <default>false</default>
+                <label>Preferred Checking Account</label>
+            </value>
+            <value>
+                <fullName>Preferred Savings Account</fullName>
+                <default>false</default>
+                <label>Preferred Savings Account</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Construction</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Line of Credit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Term Loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Real Estate</controllingFieldValue>
+            <valueName>Syndication</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Line of Credit</controllingFieldValue>
+            <valueName>Revolving Credit Card</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Auto Loan</controllingFieldValue>
+            <valueName>New Auto Loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Auto Loan</controllingFieldValue>
+            <valueName>Used Auto Loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Non Real Estate</controllingFieldValue>
+            <valueName>Equipment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Consumer Checking</controllingFieldValue>
+            <valueName>Preferred Checking Account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Consumer Savings</controllingFieldValue>
+            <valueName>Preferred Savings Account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Checking</controllingFieldValue>
+            <valueName>Commercial Checking Account</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Savings</controllingFieldValue>
+            <valueName>Commercial Savings Account</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

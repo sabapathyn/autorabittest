@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Pod --></label>
+    <name>LLC_BI__Pod__c</name>
+    <picklistValues>
+        <masterLabel>Cypress</masterLabel>
+        <translation><!-- Cypress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dogwood</masterLabel>
+        <translation><!-- Dogwood --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Revenue_Growth__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. This field is used to display the most recent year-over-year revenue growth as a percent.</description>
+    <inlineHelpText>Expressed as a percent</inlineHelpText>
+    <label>Revenue Growth %</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Percent</type>
+</CustomField>

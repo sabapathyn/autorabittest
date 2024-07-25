@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Reg O --></label>
+    <name>LLC_BI__Reg_O__c</name>
+    <picklistValues>
+        <masterLabel>Director</masterLabel>
+        <translation>監督</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Employee</masterLabel>
+        <translation>従業員</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Family Member</masterLabel>
+        <translation>家族の一員</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Officer</masterLabel>
+        <translation>役員</translation>
+    </picklistValues>
+</CustomFieldTranslation>

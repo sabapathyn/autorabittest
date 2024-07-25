@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_US_Entry_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. The date the account holder entered the United State.</description>
+    <inlineHelpText>The date the account holder entered the United State.</inlineHelpText>
+    <label>Form W7 US Entry Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

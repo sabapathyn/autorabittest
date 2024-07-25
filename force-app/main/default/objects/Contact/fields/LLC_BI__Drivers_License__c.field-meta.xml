@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Drivers_License__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. This field functionality is tied to and extended functionality of this field is used in credit reporting. This field should be filled in if you are using the Credit Reporting extensions.</description>
+    <externalId>false</externalId>
+    <label>Drivers License</label>
+    <length>20</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

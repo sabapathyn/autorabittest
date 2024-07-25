@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Annual_Income_cannot_be_negative</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+ISCHANGED(AnnualIncome__c),
+AnnualIncome__c &lt; 10000
+)</errorConditionFormula>
+    <errorMessage>For this type of Loan, Annual Income cannot be less than $10000</errorMessage>
+</ValidationRule>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>バックアップ源泉徴収からの免除を主張する当事者の理由を表すコード。数値コードは、IRS形式W-9内に含まれる命令によって定義されます。</help>
+    <label>バックアップ源泉徴収コード</label>
+    <name>LLC_BI__Backup_Withholding_Exempt_Code__c</name>
+    <picklistValues>
+        <masterLabel>Bank-operated 584(a) trust fund</masterLabel>
+        <translation>銀行運営584（a）信託ファンド</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CFTC-registered futures commission merchant</masterLabel>
+        <translation>CFTC登録先物委員会商人</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporation</masterLabel>
+        <translation>株式会社</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fegistered under Investment Company Act</masterLabel>
+        <translation>投資会社の行為の下で給餌されています</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial institution</masterLabel>
+        <translation>金融機関</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Foreign government, agency or instrumentality</masterLabel>
+        <translation>外国政府、代理店または計測力</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IRA or qualifying 501(a) or 403(b)(7) account</masterLabel>
+        <translation>IRAまたは予選501（A）または403（B）（7）アカウント</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Investment community nominee</masterLabel>
+        <translation>投資コミュニティノミニー</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation>その他</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate Investment Trust</masterLabel>
+        <translation>不動産投資信託</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Section 664 trust</masterLabel>
+        <translation>セクション664信託</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>U.S. State, District, possession</masterLabel>
+        <translation>米国国家、地区、所有</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>U.S. agency or instrumentality</masterLabel>
+        <translation>米国の代理店や機器</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>U.S. registered securities or commodities dealer</masterLabel>
+        <translation>米国登録証券または商品ディーラー</translation>
+    </picklistValues>
+</CustomFieldTranslation>

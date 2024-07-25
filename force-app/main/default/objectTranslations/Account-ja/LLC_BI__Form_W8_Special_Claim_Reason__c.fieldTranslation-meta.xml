@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Describes the reason the owner meets the terms of the treaty article on the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding). --></help>
+    <label><!-- Form W8 Special Claim Reason --></label>
+    <name>LLC_BI__Form_W8_Special_Claim_Reason__c</name>
+</CustomFieldTranslation>

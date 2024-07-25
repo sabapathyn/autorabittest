@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Closed Lost</masterLabel>
+        <translation>失注</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Closed Won</masterLabel>
+        <translation>成約</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Id. Decision Makers</masterLabel>
+        <translation><!-- Id. Decision Makers --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Needs Analysis</masterLabel>
+        <translation>ニーズ把握</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Negotiation/Review</masterLabel>
+        <translation>条件交渉</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Perception Analysis</masterLabel>
+        <translation><!-- Perception Analysis --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Proposal/Price Quote</masterLabel>
+        <translation>提案/価格見積</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Prospecting</masterLabel>
+        <translation>見込み</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Qualification</masterLabel>
+        <translation>資格</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Value Proposition</masterLabel>
+        <translation>価値訴求</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

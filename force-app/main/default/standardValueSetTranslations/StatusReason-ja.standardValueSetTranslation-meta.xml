@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Not Ready</masterLabel>
+        <translation>準備ができていない</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Off</masterLabel>
+        <translation>オフ</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Offline</masterLabel>
+        <translation>オフライン</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Online</masterLabel>
+        <translation>オンライン</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Paused</masterLabel>
+        <translation>一時停止しました</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Standby</masterLabel>
+        <translation>待機する</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Security_Market_Name__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It contains the name of the securities market (or the name of one such securities market, if more than one) upon which the publicly-traded NFFE corporation&apos;s stock is regularly traded.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The name of the securities market (or the name of one such securities market, if more than one) upon which the publicly-traded NFFE corporation&apos;s stock is regularly traded.</inlineHelpText>
+    <label>Form W8 Security Market Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

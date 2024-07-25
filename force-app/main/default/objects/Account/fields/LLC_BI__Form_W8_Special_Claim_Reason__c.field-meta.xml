@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Special_Claim_Reason__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It describes the reason the owner meets the terms of the treaty article on the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding).</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Describes the reason the owner meets the terms of the treaty article on the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding).</inlineHelpText>
+    <label>Form W8 Special Claim Reason</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

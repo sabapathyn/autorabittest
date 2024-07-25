@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Credit_Pull_Authorized_by_Customer__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Used in Consumer Loan Applications to indicate that the credit pull was authorized by the borrower.</description>
+    <label>Credit Pull Authorized by Customer</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

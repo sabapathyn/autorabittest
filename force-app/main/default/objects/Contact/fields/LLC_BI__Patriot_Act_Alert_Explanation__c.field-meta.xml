@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Patriot_Act_Alert_Explanation__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this text field to display the offense(s) registered to a user.</description>
+    <inlineHelpText>The text field automatically populates information about the offense(s) registered to a user.</inlineHelpText>
+    <label>Patriot Act Alert Explanation</label>
+    <length>4000</length>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

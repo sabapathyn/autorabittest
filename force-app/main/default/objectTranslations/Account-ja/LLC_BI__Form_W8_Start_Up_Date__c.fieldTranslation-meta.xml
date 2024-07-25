@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date the start-up company was formed (or date of board resolution approving the new line of business). --></help>
+    <label><!-- Form W8 Start Up Date --></label>
+    <name>LLC_BI__Form_W8_Start_Up_Date__c</name>
+</CustomFieldTranslation>

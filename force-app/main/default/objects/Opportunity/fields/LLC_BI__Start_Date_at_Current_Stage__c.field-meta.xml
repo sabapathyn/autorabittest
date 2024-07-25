@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Start_Date_at_Current_Stage__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This date field is automatically populated based on the date that the current stage was entered into. The field helps drive the actual days at current stage.</description>
+    <label>Start Date at Current Stage</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

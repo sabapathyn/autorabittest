@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Management Experience the individual has in their industry - expressed in Years. --></help>
+    <label><!-- Management Experience --></label>
+    <name>LLC_BI__Management_Experience__c</name>
+</CustomFieldTranslation>

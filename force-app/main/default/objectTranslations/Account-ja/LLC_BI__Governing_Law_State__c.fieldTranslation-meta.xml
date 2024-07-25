@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>信頼の統治法の状態。</help>
+    <label>統治法状態</label>
+    <name>LLC_BI__Governing_Law_State__c</name>
+    <picklistValues>
+        <masterLabel>California</masterLabel>
+        <translation>カリフォルニア</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Connecticut</masterLabel>
+        <translation>コネチカット</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>North Carolina</masterLabel>
+        <translation>ノースカロライナ州</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>North Dakota</masterLabel>
+        <translation>ノースダコタ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

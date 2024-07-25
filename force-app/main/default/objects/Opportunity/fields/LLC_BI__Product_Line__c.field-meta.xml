@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Product_Line__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist field is manually selected and drives the available product type and product selections. This is a required field to be able to convert to nCino. The field is used to specify the particular product the opportunity is for. Use either the reference or the picklist field.</description>
+    <label>Product Line</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Commercial</fullName>
+                <default>false</default>
+                <label>Commercial</label>
+            </value>
+            <value>
+                <fullName>Retail</fullName>
+                <default>false</default>
+                <label>Retail</label>
+            </value>
+            <value>
+                <fullName>Consumer Deposits</fullName>
+                <default>false</default>
+                <label>Consumer Deposits</label>
+            </value>
+            <value>
+                <fullName>Business Deposits</fullName>
+                <default>false</default>
+                <label>Business Deposits</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

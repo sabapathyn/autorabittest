@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>This field is automatically populated when the opportunity is converted to a loan. This field captures the loan record that the opportunity was converted to. Linking the opportunity to the product that was converted.</description>
+    <label>Converted Opportunity</label>
+    <referenceTo>LLC_BI__Loan__c</referenceTo>
+    <relationshipLabel>Converted Opportunity</relationshipLabel>
+    <relationshipName>ConvertedOpportunity</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

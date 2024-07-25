@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>商品</label>
+    <name>LLC_BI__Product__c</name>
+    <picklistValues>
+        <masterLabel>Construction</masterLabel>
+        <translation>建設</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Equipment</masterLabel>
+        <translation>装置</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Line of Credit</masterLabel>
+        <translation>極度融資</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Syndication</masterLabel>
+        <translation><!-- Syndication --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Term Loan</masterLabel>
+        <translation>用語ローン</translation>
+    </picklistValues>
+</CustomFieldTranslation>

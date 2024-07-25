@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>13 or Older</masterLabel>
+        <translation>13歳以上</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>16 or Older</masterLabel>
+        <translation>16歳以上</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

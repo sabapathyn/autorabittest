@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date/time of verification for ID Scan automatically populates in this field. --></help>
+    <label><!-- ID Scan Verification Date --></label>
+    <name>LLC_BI__ID_Scan_Verification_Date__c</name>
+</CustomFieldTranslation>

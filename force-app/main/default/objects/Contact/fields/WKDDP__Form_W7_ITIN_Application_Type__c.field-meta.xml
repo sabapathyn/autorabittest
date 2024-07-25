@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W7_ITIN_Application_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users select a value from this optional picklist to indicate the type of IRS ITIN application needed for the non-US person account holder.</description>
+    <inlineHelpText>Select the type of IRS ITIN application needed for the non-US person account holder.</inlineHelpText>
+    <label>Form W7 ITIN Application Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>None (No Form Needed)</fullName>
+                <default>false</default>
+                <label>None (No Form Needed)</label>
+            </value>
+            <value>
+                <fullName>New ITIN Application</fullName>
+                <default>false</default>
+                <label>New ITIN Application</label>
+            </value>
+            <value>
+                <fullName>Renewal of Existing ITIN</fullName>
+                <default>false</default>
+                <label>Renewal of Existing ITIN</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

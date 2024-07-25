@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>申請者の主要電話番号を選択してください。</help>
+    <label>主 電話番号</label>
+    <name>LLC_BI__Primary_Telephone_Number__c</name>
+    <picklistValues>
+        <masterLabel>Assistant Phone</masterLabel>
+        <translation>アシスタント電話</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home Phone</masterLabel>
+        <translation>自宅の電話</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile Phone</masterLabel>
+        <translation>携帯電話</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Phone</masterLabel>
+        <translation>その他の電話</translation>
+    </picklistValues>
+</CustomFieldTranslation>

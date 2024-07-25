@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ErrorMessage__c</fullName>
+    <description>In the case of an error, the contents of the error message are stored here for troubleshooting purposes and display to the user.  To fully reset a step, this field must be cleared.</description>
+    <inlineHelpText>In the case of an error, the contents of the error message are stored here for troubleshooting purposes and display to the user.  To fully reset a step, this field must be cleared.</inlineHelpText>
+    <label>Error Message</label>
+    <length>32768</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>10</visibleLines>
+</CustomField>

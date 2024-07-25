@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>コンバートした商談</label>
+    <name>LLC_BI__Loan__c</name>
+    <relationshipLabel>コンバートした商談</relationshipLabel>
+</CustomFieldTranslation>

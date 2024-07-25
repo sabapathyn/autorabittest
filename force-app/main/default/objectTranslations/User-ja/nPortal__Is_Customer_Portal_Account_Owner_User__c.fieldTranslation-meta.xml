@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Is Customer Portal Account Owner User --></label>
+    <name>nPortal__Is_Customer_Portal_Account_Owner_User__c</name>
+</CustomFieldTranslation>

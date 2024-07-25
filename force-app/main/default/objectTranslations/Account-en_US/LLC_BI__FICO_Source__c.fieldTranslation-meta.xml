@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicated the source of the credit score information. --></help>
+    <label><!-- FICO Source --></label>
+    <name>LLC_BI__FICO_Source__c</name>
+</CustomFieldTranslation>

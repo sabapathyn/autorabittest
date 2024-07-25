@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter an identifying number for the customer/member relationship, used only by the Relationship Agreement business model. --></help>
+    <label>メンバーID</label>
+    <name>WKDDP__Member_ID__c</name>
+</CustomFieldTranslation>

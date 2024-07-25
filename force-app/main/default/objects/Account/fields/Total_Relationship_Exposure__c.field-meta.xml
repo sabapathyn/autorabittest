@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Total_Relationship_Exposure__c</fullName>
+    <formula>LLC_BI__Proposed_Direct_Exposure__c+LLC_BI__Proposed_Indirect_Exposure__c+LLC_BI__Committed_Direct_Exposure__c+LLC_BI__Committed_Indirect_Exposure__c+LLC_BI__Direct_Exposure__c+LLC_BI__Indirect_Exposure__c</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Total Relationship Exposure</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <type>Currency</type>
+</CustomField>

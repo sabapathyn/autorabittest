@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Run_Credit</fullName>
+    <availability>online</availability>
+    <description>This button launches a flow to simulate a credit check.</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <linkType>url</linkType>
+    <masterLabel>Run Credit</masterLabel>
+    <openType>replace</openType>
+    <protected>false</protected>
+    <url>/flow/CreditScoreFlow?RelationshipID={!Account.Id}&amp;saveURL={!Account.Id}&amp;retURL={!Account.Id}</url>
+</WebLink>

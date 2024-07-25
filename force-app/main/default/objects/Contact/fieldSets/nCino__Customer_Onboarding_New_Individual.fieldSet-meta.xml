@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nCino__Customer_Onboarding_New_Individual</fullName>
+    <description>This field set is used when a relationship does not exist, and a new individual relationship is to be created.</description>
+    <displayedFields>
+        <field>FirstName</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LastName</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Birthdate</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Phone</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Email</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__SS_PE__c</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Country_of_Residence__c</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Country_of_Citizenship__c</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <label>EMEA Commercial Onboarding New Individual</label>
+</FieldSet>

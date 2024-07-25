@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__Beneficial_Owners_Contact_Information_OA</fullName>
+    <description>Beneficial owners screen contact information</description>
+    <displayedFields>
+        <field>FirstName</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LastName</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Title</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__SS__c</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Email</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>MobilePhone</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>MailingStreet</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>MailingCity</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>MailingState</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>MailingPostalCode</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <label>Beneficial Owners Contact Information OA</label>
+</FieldSet>

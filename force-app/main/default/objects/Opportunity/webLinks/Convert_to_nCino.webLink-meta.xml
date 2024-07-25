@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Convert_to_nCino</fullName>
+    <availability>online</availability>
+    <description>Custom Button that converts an opportunity to a Loan without Product Package</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>Convert to nCino</masterLabel>
+    <openType>noSidebar</openType>
+    <protected>false</protected>
+    <url>/apex/LLC_BI__LifeCycleConverter?
+id={!Opportunity.Id}&amp;
+relationshipAPIName=Name&amp;
+productApiName=Product__c&amp;
+productTypeApiName=Product_Type__c&amp;
+productLineApiName=Product_Line__c&amp;
+mergeAccountIdApiName=AccountId&amp;
+convertedDateAPIName=Converted_Date__c&amp;
+convertedTargetIdAPI=Loan__c&amp;
+packageReferenceAPI=Parent_Opportunity__c</url>
+</WebLink>

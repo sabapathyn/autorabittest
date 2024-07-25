@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist specifies the Lead&apos;s loan type. It is optional and manually populated</description>
+    <label>Loan Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Acquisition</fullName>
+                <default>false</default>
+                <label>Acquisition</label>
+            </value>
+            <value>
+                <fullName>Expansion</fullName>
+                <default>false</default>
+                <label>Expansion</label>
+            </value>
+            <value>
+                <fullName>Refinance</fullName>
+                <default>false</default>
+                <label>Refinance</label>
+            </value>
+            <value>
+                <fullName>Relocation</fullName>
+                <default>false</default>
+                <label>Relocation</label>
+            </value>
+            <value>
+                <fullName>Start-up</fullName>
+                <default>false</default>
+                <label>Start-up</label>
+            </value>
+            <value>
+                <fullName>Startup</fullName>
+                <default>false</default>
+                <label>Startup</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>メンテナンスタイプ</label>
+    <name>LLC_BI__SubType__c</name>
+    <picklistValues>
+        <masterLabel>Add Authorized User</masterLabel>
+        <translation>契約者追加</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Address Change</masterLabel>
+        <translation>住所変更</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Limit Change</masterLabel>
+        <translation>クレジット上限変更</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation>その他</translation>
+    </picklistValues>
+</CustomFieldTranslation>

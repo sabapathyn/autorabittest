@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Identity_Verification_Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist field automatically populates. It indicates the identity verification status of the contact.</description>
+    <label>Identity Verification Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Communication Error</fullName>
+                <default>false</default>
+                <label>Communication Error</label>
+            </value>
+            <value>
+                <fullName>ID Verification Failure</fullName>
+                <default>false</default>
+                <label>ID Verification Failure</label>
+            </value>
+            <value>
+                <fullName>Not Eligible for Questions</fullName>
+                <default>false</default>
+                <label>Not Eligible for Questions</label>
+            </value>
+            <value>
+                <fullName>Pass</fullName>
+                <default>false</default>
+                <label>Pass</label>
+            </value>
+            <value>
+                <fullName>Retry Limited Exceeded</fullName>
+                <default>false</default>
+                <label>Retry Limited Exceeded</label>
+            </value>
+            <value>
+                <fullName>Unable to Generate Questions</fullName>
+                <default>false</default>
+                <label>Unable to Generate Questions</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

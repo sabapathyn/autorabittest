@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>パートナーシップタイプ</label>
+    <name>LLC_BI__Partnership_Type__c</name>
+    <picklistValues>
+        <masterLabel>General Partnership</masterLabel>
+        <translation>一般的なパートナー関係</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Liability Partnership (LLP)</masterLabel>
+        <translation><!-- Limited Liability Partnership (LLP) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Partnership</masterLabel>
+        <translation>限られたパートナーシップ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

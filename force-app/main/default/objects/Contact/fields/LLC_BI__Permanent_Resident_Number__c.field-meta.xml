@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Permanent_Resident_Number__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. If the contact is a permanent resident this holds the resident number. A 13 digit alpha numeric text.</description>
+    <externalId>false</externalId>
+    <label>Permanent Resident Number</label>
+    <length>13</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>

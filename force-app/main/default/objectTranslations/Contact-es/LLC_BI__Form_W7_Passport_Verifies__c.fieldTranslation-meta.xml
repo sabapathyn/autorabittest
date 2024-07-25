@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates that the individual&apos;s passport (stand alone document) verifies foreign status identity or both (on IRS form W-7(COA)). --></help>
+    <label><!-- Form W7 Passport Verifies --></label>
+    <name>LLC_BI__Form_W7_Passport_Verifies__c</name>
+    <picklistValues>
+        <masterLabel>Foreign Status</masterLabel>
+        <translation><!-- Foreign Status --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Identity</masterLabel>
+        <translation><!-- Identity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Identity and foreign status</masterLabel>
+        <translation><!-- Identity and foreign status --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- ID Scan Status --></label>
+    <name>LLC_BI__Id_Scan_Status__c</name>
+    <picklistValues>
+        <masterLabel>Bad Image</masterLabel>
+        <translation><!-- Bad Image --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Communication Error</masterLabel>
+        <translation><!-- Communication Error --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ID Scan Failure</masterLabel>
+        <translation><!-- ID Scan Failure --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ID Scan Success</masterLabel>
+        <translation><!-- ID Scan Success --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vendor Error</masterLabel>
+        <translation><!-- Vendor Error --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

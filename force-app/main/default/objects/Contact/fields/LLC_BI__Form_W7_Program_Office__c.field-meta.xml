@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_Program_Office__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. The 8-digit office code that was issued to by the ITIN Program Office for the IRS Form W-7.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The 8-digit office code that was issued to by the ITIN Program Office for the IRS Form W-7.</inlineHelpText>
+    <label>Form W7 Program Office</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

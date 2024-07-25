@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Proforma_Summary</fullName>
+    <availability>online</availability>
+    <description>Update Proforma Summary button for Proforma creation from Opportunity.  Replaces the managed version of the button.</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <linkType>url</linkType>
+    <masterLabel>Proforma Summary</masterLabel>
+    <openType>replace</openType>
+    <protected>false</protected>
+    <url>{!URLFOR(&apos;/apex/LLC_BI__Proforma?&apos;,Opportunity.Id,[app=&apos;treasury-proforma.proforma-summary&apos;,id=Opportunity.Id, source=&apos;opportunity&apos;])}</url>
+</WebLink>

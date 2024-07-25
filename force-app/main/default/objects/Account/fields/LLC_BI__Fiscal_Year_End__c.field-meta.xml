@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Fiscal_Year_End__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated when the user chooses a Fiscal Year End in spreads. In Spreads, this date is used to evaluate if 12 month periods are also fiscal years.</description>
+    <label>Fiscal Year End</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

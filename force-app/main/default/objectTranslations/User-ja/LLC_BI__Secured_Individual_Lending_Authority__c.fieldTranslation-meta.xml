@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>個々の貸付権限を確保しました</label>
+    <name>LLC_BI__Secured_Individual_Lending_Authority__c</name>
+</CustomFieldTranslation>

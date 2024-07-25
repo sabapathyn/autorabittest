@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- nCino_User_Interface_Test --></label>
+        <name>nFORCE__nCino_User_Interface_Test</name>
+    </fieldSets>
+    <webLinks>
+        <label>アップセル/クロスマーチチャンス</label>
+        <name>LLC_BI__UpsellCrosssellOpportunity</name>
+    </webLinks>
+    <webLinks>
+        <label>アップセル/クロスマーチチャンス</label>
+        <name>nFORMS__UpsellCrosssellOpportunity</name>
+    </webLinks>
+</CustomObjectTranslation>

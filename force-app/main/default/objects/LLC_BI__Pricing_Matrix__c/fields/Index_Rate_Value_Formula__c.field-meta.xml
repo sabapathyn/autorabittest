@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Index_Rate_Value_Formula__c</fullName>
+    <formula>cm_Rate_lookup__r.LLC_BI__Current_Value__c / 100</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Index Rate Value</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>3</scale>
+    <trackTrending>false</trackTrending>
+    <type>Percent</type>
+</CustomField>

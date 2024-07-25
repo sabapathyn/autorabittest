@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Context_Start_Time__c</fullName>
+    <label>Context Start Time</label>
+    <summarizedField>nPortal__Context__c.nPortal__Context_Start__c</summarizedField>
+    <summaryForeignKey>nPortal__Context__c.nPortal__Application__c</summaryForeignKey>
+    <summaryOperation>min</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

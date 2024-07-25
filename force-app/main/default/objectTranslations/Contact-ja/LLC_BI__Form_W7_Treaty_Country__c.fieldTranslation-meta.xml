@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The country under whose treaty the account holder receives benefits. --></help>
+    <label><!-- Form W7 Treaty Country --></label>
+    <name>LLC_BI__Form_W7_Treaty_Country__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nFORMS__Form_Generation</fullName>
+    <availability>online</availability>
+    <description>Opens the Form Generation screen.</description>
+    <displayType>button</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>Form Generation</masterLabel>
+    <openType>noSidebar</openType>
+    <page>nFORMS__AccountFormGenerationButton</page>
+    <protected>false</protected>
+</WebLink>

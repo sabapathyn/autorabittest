@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Converted_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is automatically populated when an opportunity is converted to nCino. This field will specify the date in which the opportunity was converted.</description>
+    <label>Converted Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

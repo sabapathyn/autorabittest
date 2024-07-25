@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Last_Exposure_Calc_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This date/time field automatically populates via the system. This field specifies the most recent date and time for a given exposure calculation. Default is null.</description>
+    <label>Last Exposure Calculation Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>DateTime</type>
+</CustomField>

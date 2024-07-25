@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Bot RMI --></label>
+    <name>LLC_BI__Bot_RMI__c</name>
+</CustomFieldTranslation>

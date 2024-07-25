@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__EID_Questions_Verification</fullName>
+    <description>A shell account fieldset for integration with nFUSE middleware layer.</description>
+    <displayedFields>
+        <field>Id</field>
+        <isFieldManaged>true</isFieldManaged>
+        <isRequired>true</isRequired>
+    </displayedFields>
+    <label>EID Questions Verification</label>
+</FieldSet>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__SICCode__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and specifies the Standard Industrial Classification (SIC) code for the Lead’s associated industry. SIC is a system for classifying industries by a four-digit code. The field is manually populated.</description>
+    <externalId>false</externalId>
+    <label>SIC Code</label>
+    <length>15</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

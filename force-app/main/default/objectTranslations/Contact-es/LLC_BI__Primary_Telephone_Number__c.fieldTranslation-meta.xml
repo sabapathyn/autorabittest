@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the applicant&apos;s primary telephone number. --></help>
+    <label><!-- Primary Telephone Number --></label>
+    <name>LLC_BI__Primary_Telephone_Number__c</name>
+    <picklistValues>
+        <masterLabel>Assistant Phone</masterLabel>
+        <translation><!-- Assistant Phone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home Phone</masterLabel>
+        <translation><!-- Home Phone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile Phone</masterLabel>
+        <translation><!-- Mobile Phone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Phone</masterLabel>
+        <translation><!-- Other Phone --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

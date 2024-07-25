@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Id_Scan_Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this picklist to track the progress through the ID Scan workflow by using the current ID Scan status.</description>
+    <label>ID Scan Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>ID Scan Success</fullName>
+                <default>false</default>
+                <label>ID Scan Success</label>
+            </value>
+            <value>
+                <fullName>ID Scan Failure</fullName>
+                <default>false</default>
+                <label>ID Scan Failure</label>
+            </value>
+            <value>
+                <fullName>Bad Image</fullName>
+                <default>false</default>
+                <label>Bad Image</label>
+            </value>
+            <value>
+                <fullName>Communication Error</fullName>
+                <default>false</default>
+                <label>Communication Error</label>
+            </value>
+            <value>
+                <fullName>Vendor Error</fullName>
+                <default>false</default>
+                <label>Vendor Error</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Beneficial_Owners_Not_Applicable_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional picklist to show the reason that the otherwise required Beneficial Owner Certification for Legal Entities is not needed and should be de-selected for the given transaction.</description>
+    <inlineHelpText>Select the reason that the Beneficial Owner Certification for Legal Entities is not needed and should be de-selected for the given transaction.</inlineHelpText>
+    <label>Beneficial Owners Not Applicable Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Collected Elsewhere (earlier in transaction or acceptable alternate form/record)</fullName>
+                <default>false</default>
+                <label>Collected Elsewhere (earlier in transaction or acceptable alternate form/record)</label>
+            </value>
+            <value>
+                <fullName>Not a &apos;Legal Entity&apos; subject to the certification requirement</fullName>
+                <default>false</default>
+                <label>Not a &apos;Legal Entity&apos; subject to the certification requirement</label>
+            </value>
+            <value>
+                <fullName>Financial Institution with Federal Regulator</fullName>
+                <default>false</default>
+                <label>Financial Institution with Federal Regulator</label>
+            </value>
+            <value>
+                <fullName>Bank with State Bank Regulator</fullName>
+                <default>false</default>
+                <label>Bank with State Bank Regulator</label>
+            </value>
+            <value>
+                <fullName>Government Entity (Phase I Exemption)</fullName>
+                <default>false</default>
+                <label>Government Entity (Phase I Exemption)</label>
+            </value>
+            <value>
+                <fullName>Publicly-Traded Company (Phase I Exemption)</fullName>
+                <default>false</default>
+                <label>Publicly-Traded Company (Phase I Exemption)</label>
+            </value>
+            <value>
+                <fullName>Subsidiary of Publicly-Traded Co. (Phase I Exemption)</fullName>
+                <default>false</default>
+                <label>Subsidiary of Publicly-Traded Co. (Phase I Exemption)</label>
+            </value>
+            <value>
+                <fullName>Exempt Entity registered with the SEC</fullName>
+                <default>false</default>
+                <label>Exempt Entity registered with the SEC</label>
+            </value>
+            <value>
+                <fullName>Exempt Entity registered with the CFTC</fullName>
+                <default>false</default>
+                <label>Exempt Entity registered with the CFTC</label>
+            </value>
+            <value>
+                <fullName>Public Accounting Firm registered under Sarbanes-Oxley Act</fullName>
+                <default>false</default>
+                <label>Public Accounting Firm registered under Sarbanes-Oxley Act</label>
+            </value>
+            <value>
+                <fullName>Bank or Savings and Loan Holding Co.</fullName>
+                <default>false</default>
+                <label>Bank or Savings and Loan Holding Co.</label>
+            </value>
+            <value>
+                <fullName>Pooled Investment Vehicle operated/advised by financial institution</fullName>
+                <default>false</default>
+                <label>Pooled Investment Vehicle operated/advised by financial institution</label>
+            </value>
+            <value>
+                <fullName>Insurance Company regulated by a State</fullName>
+                <default>false</default>
+                <label>Insurance Company regulated by a State</label>
+            </value>
+            <value>
+                <fullName>Financial Market Utility designated by the Financial Stability Oversight Council</fullName>
+                <default>false</default>
+                <label>Financial Market Utility designated by the Financial Stability Oversight Council</label>
+            </value>
+            <value>
+                <fullName>Foreign Financial Institution with regulator having beneficial ownership information</fullName>
+                <default>false</default>
+                <label>Foreign Financial Institution with regulator having beneficial ownership information</label>
+            </value>
+            <value>
+                <fullName>Non-U.S. Governmental Department, Agency or Political Subdivision</fullName>
+                <default>false</default>
+                <label>Non-U.S. Governmental Department, Agency or Political Subdivision</label>
+            </value>
+            <value>
+                <fullName>Other Legal Entity opening &apos;Private Banking Account&apos; (31 CFR  1010.620)</fullName>
+                <default>false</default>
+                <label>Other Legal Entity opening &apos;Private Banking Account&apos; (31 CFR  1010.620)</label>
+            </value>
+            <value>
+                <fullName>Other Legal Entity account participating in an Employee Benefit Plan (ERISA)</fullName>
+                <default>false</default>
+                <label>Other Legal Entity account participating in an Employee Benefit Plan (ERISA)</label>
+            </value>
+            <value>
+                <fullName>Exempt Account, POS for limited credit purchases of retail goods/services</fullName>
+                <default>false</default>
+                <label>Exempt Account, POS for limited credit purchases of retail goods/services</label>
+            </value>
+            <value>
+                <fullName>Exempt Account, finance postage purchases direct payment by FI to provider</fullName>
+                <default>false</default>
+                <label>Exempt Account, finance postage purchases direct payment by FI to provider</label>
+            </value>
+            <value>
+                <fullName>Exempt Account, finance insurance premiums direct payment by FI to provider</fullName>
+                <default>false</default>
+                <label>Exempt Account, finance insurance premiums direct payment by FI to provider</label>
+            </value>
+            <value>
+                <fullName>Exempt Account, finance purchase/lease of equipment direct payment by FI to vendor</fullName>
+                <default>false</default>
+                <label>Exempt Account, finance purchase/lease of equipment direct payment by FI to vendor</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

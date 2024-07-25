@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__To_date_cannot_be_before_from_d_ate</fullName>
+    <active>true</active>
+    <description>Validation ensures that the &quot;to&quot; date for the bot cannot be before the &quot;from&quot; date. If it is, the bot hangs.</description>
+    <errorConditionFormula>LLC_BI__Statement_To_Date__c &lt; LLC_BI__Statement_From_Date__c</errorConditionFormula>
+    <errorMessage>Statement To Date cannot be earlier than Statement from Date.</errorMessage>
+</ValidationRule>

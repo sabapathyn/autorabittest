@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- PersonalInfo_EPIM --></label>
+        <name>PersonalInfo_EPIM</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Portal_Registration_Fields_Config --></label>
+        <name>Portal_Registration_Fields_Config</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>nFORCE__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- -D Portal Registration Fields --></label>
+        <name>nPortal__Portal_Registration_Fields</name>
+    </fieldSets>
+</CustomObjectTranslation>

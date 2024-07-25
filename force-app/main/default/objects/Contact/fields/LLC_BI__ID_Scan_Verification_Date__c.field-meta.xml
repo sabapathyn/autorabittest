@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__ID_Scan_Verification_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this date/time field to store the recent date/time the contact initiated in the ID scan workflow.</description>
+    <inlineHelpText>The date/time of verification for ID Scan automatically populates in this field.</inlineHelpText>
+    <label>ID Scan Verification Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>DateTime</type>
+</CustomField>

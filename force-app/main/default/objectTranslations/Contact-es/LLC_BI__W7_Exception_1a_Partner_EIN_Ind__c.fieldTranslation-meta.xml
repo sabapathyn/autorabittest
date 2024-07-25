@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The W-7 applicant&apos;s reason for applying for an ITIN is &apos;Exception 1a-Partnership Interest&apos; as described in the IRS instructions to form W-7 for Reason &apos;h.&apos; --></help>
+    <label><!-- W7 Exception 1a Partnership EIN Ind --></label>
+    <name>LLC_BI__W7_Exception_1a_Partner_EIN_Ind__c</name>
+</CustomFieldTranslation>

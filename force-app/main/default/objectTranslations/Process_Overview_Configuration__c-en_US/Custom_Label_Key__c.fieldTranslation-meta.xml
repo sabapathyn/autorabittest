@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Key to lookup the custom label. --></help>
+    <label><!-- Custom Label Key --></label>
+    <name>Custom_Label_Key__c</name>
+</CustomFieldTranslation>

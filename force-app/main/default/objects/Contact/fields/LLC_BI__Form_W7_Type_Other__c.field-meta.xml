@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_Type_Other__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. A description of the other reason the application for US Individual Taxpayer Identification Number is being submitted.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>A description of the other reason the application for US Individual Taxpayer Identification Number is being submitted.</inlineHelpText>
+    <label>Form W7 Type Other</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

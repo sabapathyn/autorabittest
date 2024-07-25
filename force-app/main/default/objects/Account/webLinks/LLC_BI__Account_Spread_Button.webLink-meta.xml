@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Account_Spread_Button</fullName>
+    <availability>online</availability>
+    <description>Account Button Controller Page</description>
+    <displayType>button</displayType>
+    <linkType>page</linkType>
+    <masterLabel>Underwriting</masterLabel>
+    <openType>replace</openType>
+    <page>LLC_BI__Account_Spread_Button</page>
+    <protected>false</protected>
+</WebLink>

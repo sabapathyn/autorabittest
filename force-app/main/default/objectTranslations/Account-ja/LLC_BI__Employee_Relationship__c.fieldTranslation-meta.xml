@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>取引先があなたの金融機関の従業員の場合、ここをチェックしてください。</help>
+    <label>従業員取引先</label>
+    <name>LLC_BI__Employee_Relationship__c</name>
+</CustomFieldTranslation>

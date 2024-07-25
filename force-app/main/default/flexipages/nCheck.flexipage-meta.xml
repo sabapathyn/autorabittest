@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p&gt;&lt;b style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;Welcome to nCheck, nCino&apos;s new automated exercise checking tool.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This tool is for those who are completing hands-on exercises from our Instructor-Led Trainings or our E-Learning.&lt;/p&gt;&lt;p&gt;To use the tool, simply follow the steps of your exercise, then find it below by selecting the correct Wave, Course, and Exercise. Once you click &apos;Grade&apos; nCheck will check your configuration and either celebrate your success with confetti, or give you field-level feedback for what needs to be changed.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Below you will only find exercises you haven&apos;t completed, once you have successfully completed an exercise it will no longer be available in the list below.&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <identifier>flexipage_richText</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>nCHECK:gradingChecker</componentName>
+                <identifier>nCHECK_gradingChecker</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>main</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>nCheck</masterLabel>
+    <template>
+        <name>flexipage:defaultAppHomeTemplate</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>

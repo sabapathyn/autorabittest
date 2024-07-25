@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>trueの場合、口座の保有者は、過去12か月以内に、彼らが以前に金融機関で取引口座を持っていたことを証明します。</help>
+    <label>以前の金融アカウント</label>
+    <name>LLC_BI__Previous_Financial_Account_Indicator__c</name>
+</CustomFieldTranslation>

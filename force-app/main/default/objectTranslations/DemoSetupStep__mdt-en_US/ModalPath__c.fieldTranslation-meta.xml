@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The unique parameter used to determine which modal to display.  This value is used in the setupStep.js event handler.  Please note that this must match exactly with the code.  This field is optional unless Modal is selected as the step type. --></help>
+    <label><!-- Modal Path --></label>
+    <name>ModalPath__c</name>
+</CustomFieldTranslation>

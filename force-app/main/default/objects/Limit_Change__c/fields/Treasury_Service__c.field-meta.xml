@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Treasury_Service__c</fullName>
+    <label>Treasury Service</label>
+    <referenceTo>LLC_BI__Treasury_Service__c</referenceTo>
+    <relationshipLabel>Limit Changes</relationshipLabel>
+    <relationshipName>Limit_Changes</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

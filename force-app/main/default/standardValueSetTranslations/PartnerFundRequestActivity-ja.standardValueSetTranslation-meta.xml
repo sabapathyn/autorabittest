@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Advertisement</masterLabel>
+        <translation>広告</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Banner Ads</masterLabel>
+        <translation>バナー広告</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email</masterLabel>
+        <translation>電子メール</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Other</masterLabel>
+        <translation>その他</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Partners</masterLabel>
+        <translation>パートナー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Public Relations</masterLabel>
+        <translation>広報</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Referral Program</masterLabel>
+        <translation>紹介プログラム</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Seminar / Conference</masterLabel>
+        <translation>セミナー/会議</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Telemarketing</masterLabel>
+        <translation>テレマーケティング</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

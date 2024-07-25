@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The name of the sponsoring entity for the beneficial owner, these entities are defined by IRS forms W-8. --></help>
+    <label><!-- Form W8 Sponsor Entity Name --></label>
+    <name>LLC_BI__Form_W8_Sponsor_Entity_Name__c</name>
+</CustomFieldTranslation>

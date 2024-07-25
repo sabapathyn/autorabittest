@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W7_Dependent_US_Citizen_Name__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional text field with the name of the individual the account holder is dependent upon for the IRA Application for Individual Taxpayer Identification Number, usually their spouse.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the name of the account holder&apos;s spouse, or who they&apos;re dependent on for the IRA Application for Individual Taxpayer Identification Number.</inlineHelpText>
+    <label>Form W7 Dependent US Citizen Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

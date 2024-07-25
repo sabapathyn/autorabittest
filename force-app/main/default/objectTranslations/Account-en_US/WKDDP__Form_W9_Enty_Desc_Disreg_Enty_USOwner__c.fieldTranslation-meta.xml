@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the non-standard type of the disregarded entity&apos;s non-disregarded owner type. --></help>
+    <label><!-- Form W9 Enty Desc of Disreg Enty USOwner --></label>
+    <name>WKDDP__Form_W9_Enty_Desc_Disreg_Enty_USOwner__c</name>
+</CustomFieldTranslation>

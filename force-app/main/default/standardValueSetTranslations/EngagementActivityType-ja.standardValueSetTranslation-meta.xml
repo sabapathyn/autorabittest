@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Email Hard Bounce</masterLabel>
+        <translation>電子メールハードバウンス</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Open</masterLabel>
+        <translation>電子メールを開く</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Opt-in</masterLabel>
+        <translation>電子メールオプトイン</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Preferences Open</masterLabel>
+        <translation>電子メール開封</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Send</masterLabel>
+        <translation>電子メール送信</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Soft Bounce</masterLabel>
+        <translation>電子メールソフトバウンス</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Spam Complaint</masterLabel>
+        <translation>電子メールスパムクレーム</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email Unsubscribe</masterLabel>
+        <translation>登録解除の電子メール</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Form Submit Error</masterLabel>
+        <translation>フォーム送信エラー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Form Submit Success</masterLabel>
+        <translation>フォーム送信成功</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Form View</masterLabel>
+        <translation>フォームビュー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Landing Page Form Submit Error</masterLabel>
+        <translation>ランディングページフォーム送信エラー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Landing Page Form Submit Success</masterLabel>
+        <translation>ランディングページフォーム送信成功</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Landing Page View</masterLabel>
+        <translation>ランディングページビュー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Link Click</masterLabel>
+        <translation>リンククリック</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

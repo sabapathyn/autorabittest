@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>LLC_BI__Loan__c$Name</field>
+    </columns>
+    <columns>
+        <field>LLC_BI__Loan__c$LLC_BI__Loan_Officer__c</field>
+    </columns>
+    <columns>
+        <field>LLC_BI__Loan__c$LLC_BI__Loan_Officer__c.Email</field>
+    </columns>
+    <columns>
+        <field>LLC_BI__Loan__c$LLC_BI__Loan_Officer__c.Phone</field>
+    </columns>
+    <format>Tabular</format>
+    <name>Partner - Loan Officer Assignment</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>Loans_Custom__c</reportType>
+    <scope>useronly</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <timeFrameFilter>
+        <dateColumn>LLC_BI__Loan__c$CreatedDate</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

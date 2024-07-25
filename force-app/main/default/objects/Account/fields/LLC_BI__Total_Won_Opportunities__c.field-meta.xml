@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Total_Won_Opportunities__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is automatically calculated via a rollup formula. This field is used to show the roll up summary of total opportunities associated to the relationship that were won.</description>
+    <inlineHelpText>An example Rollup Summary field that adds all of the account&apos;s won opportunities.</inlineHelpText>
+    <label>Total Won Opportunities</label>
+    <summarizedField>Opportunity.Amount</summarizedField>
+    <summaryFilterItems>
+        <field>Opportunity.IsWon</field>
+        <operation>equals</operation>
+        <value>True</value>
+    </summaryFilterItems>
+    <summaryForeignKey>Opportunity.AccountId</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <type>Summary</type>
+</CustomField>

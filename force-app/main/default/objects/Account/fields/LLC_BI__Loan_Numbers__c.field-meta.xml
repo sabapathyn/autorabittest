@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan_Numbers__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This is a hidden field that stores the loan numbers that the relationship has. Used in some reports, alerts, etc. ( to be deprecated)</description>
+    <externalId>false</externalId>
+    <label>-D Loan Numbers</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Commented</masterLabel>
+        <translation>コメント</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Resolved</masterLabel>
+        <translation>解決済</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Reviewed</masterLabel>
+        <translation>審査</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Submitted</masterLabel>
+        <translation>申請済</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

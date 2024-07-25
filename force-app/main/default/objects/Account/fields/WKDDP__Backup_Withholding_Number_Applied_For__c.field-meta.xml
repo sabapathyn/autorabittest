@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Backup_Withholding_Number_Applied_For__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Users mark this optional boolean field true when holder&apos;s application for the tax identification number (TIN) exists. By default, it is false.</description>
+    <inlineHelpText>Select this field if the holder&apos;s application for the tax identification number (TIN) exists.</inlineHelpText>
+    <label>Backup Withholding TIN Applied For</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

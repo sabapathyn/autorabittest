@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Number_of_Co_Applicants__c</fullName>
+    <inlineHelpText>Roll up summary of Contexts with Context Type =&apos;Owner&apos;, returning number of co-owners added on this application.</inlineHelpText>
+    <label>Number of Co-Applicants</label>
+    <summaryFilterItems>
+        <field>nPortal__Context__c.nPortal__Context_Type__c</field>
+        <operation>equals</operation>
+        <value>&apos;Owner&apos;,&apos;individual&apos;,&apos;Other Involved (Individual)&apos;</value>
+    </summaryFilterItems>
+    <summaryForeignKey>nPortal__Context__c.nPortal__Application__c</summaryForeignKey>
+    <summaryOperation>count</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

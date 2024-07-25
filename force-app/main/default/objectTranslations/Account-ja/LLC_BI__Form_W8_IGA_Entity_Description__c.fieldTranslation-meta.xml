@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The applicable intergovernmental agreement&apos;s (IGA&apos;s) term/description for the type of entity that includes the beneficial owner. --></help>
+    <label><!-- Form W8 IGA Entity Description --></label>
+    <name>LLC_BI__Form_W8_IGA_Entity_Description__c</name>
+</CustomFieldTranslation>

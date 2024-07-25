@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The beneficial owner is a sponsored Foreign Financial Institution (FII) without a GIIN number prior to 1/1/16 for purposes of IRS forms W-8 --></help>
+    <label><!-- Form W8 Sponsored FFI Type --></label>
+    <name>LLC_BI__Form_W8_Sponsored_FFI_Type__c</name>
+    <picklistValues>
+        <masterLabel>FFI Foreign Section 957a Corporation</masterLabel>
+        <translation><!-- FFI Foreign Section 957a Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>FFI Investment Entity</masterLabel>
+        <translation><!-- FFI Investment Entity --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

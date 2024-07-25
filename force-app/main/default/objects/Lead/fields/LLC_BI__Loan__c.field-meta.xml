@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Loan__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>This field is auto-populated as a look up to a loan created when Convert to nCino is selected on the lead. This allows the financial institution and the BI tool to track converted leads</description>
+    <label>Converted Lead</label>
+    <referenceTo>LLC_BI__Loan__c</referenceTo>
+    <relationshipLabel>Converted Lead</relationshipLabel>
+    <relationshipName>ConvertedLead</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Lookup</type>
+</CustomField>

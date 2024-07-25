@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__NumberofLocations__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field tracks how many business locations the lead&apos;s associated customer may have. It is optional and manually populated.</description>
+    <externalId>false</externalId>
+    <label>Number of Locations</label>
+    <precision>3</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

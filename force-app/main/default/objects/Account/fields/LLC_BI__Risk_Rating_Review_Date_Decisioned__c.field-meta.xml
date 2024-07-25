@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Risk_Rating_Review_Date_Decisioned__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The latest decision date from the related Risk Rating Reviews</description>
+    <label>Risk Rating Review Date Decisioned</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

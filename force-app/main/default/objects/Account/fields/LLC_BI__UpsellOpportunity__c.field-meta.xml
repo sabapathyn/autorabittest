@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__UpsellOpportunity__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user. This field is used to select Upsell Opportunity status for this Relationship or Account, for example, Yes, No, or Maybe. The value provided must match one of the values in the Upsell Opportunity list established for this organization.</description>
+    <label>Upsell Opportunity</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Maybe</fullName>
+                <default>false</default>
+                <label>Maybe</label>
+            </value>
+            <value>
+                <fullName>No</fullName>
+                <default>false</default>
+                <label>No</label>
+            </value>
+            <value>
+                <fullName>Yes</fullName>
+                <default>false</default>
+                <label>Yes</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

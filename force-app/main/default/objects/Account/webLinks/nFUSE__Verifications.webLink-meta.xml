@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nFUSE__Verifications</fullName>
+    <availability>online</availability>
+    <description>Run Verifications</description>
+    <displayType>button</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>Run Verifications</masterLabel>
+    <openType>sidebar</openType>
+    <page>nFUSE__Verifications</page>
+    <protected>false</protected>
+</WebLink>

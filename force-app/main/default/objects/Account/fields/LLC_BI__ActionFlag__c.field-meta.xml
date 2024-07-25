@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__ActionFlag__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. The variable text facilitates trigger actions. For example, &quot;createinterim&quot; triggers the creation of an interim statement and inserts it into @AL DM.</description>
+    <externalId>false</externalId>
+    <label>ActionFlag</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

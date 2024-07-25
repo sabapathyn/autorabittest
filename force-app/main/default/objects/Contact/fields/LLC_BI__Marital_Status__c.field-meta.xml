@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Marital_Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. This field is manually populated. This field is used to set a contact&apos;s marital status.</description>
+    <inlineHelpText>This field is used to set a contact&apos;s marital status.</inlineHelpText>
+    <label>Marital Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Married</fullName>
+                <default>false</default>
+                <label>Married</label>
+            </value>
+            <value>
+                <fullName>Unmarried</fullName>
+                <default>false</default>
+                <label>Unmarried</label>
+            </value>
+            <value>
+                <fullName>Legally Separated</fullName>
+                <default>false</default>
+                <label>Legally Separated</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

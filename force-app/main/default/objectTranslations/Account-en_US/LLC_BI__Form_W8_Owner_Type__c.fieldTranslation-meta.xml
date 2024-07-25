@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of owner (or &apos;Chapter 3 Status&apos;) that is listed on the applicable IRS Form W-8. --></help>
+    <label><!-- Form W8 Owner Type --></label>
+    <name>LLC_BI__Form_W8_Owner_Type__c</name>
+    <picklistValues>
+        <masterLabel>Central Bank of Issue</masterLabel>
+        <translation><!-- Central Bank of Issue --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complex Trust</masterLabel>
+        <translation><!-- Complex Trust --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporation</masterLabel>
+        <translation><!-- Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Disregarded Entity (hybrid/treaty claim)</masterLabel>
+        <translation><!-- Disregarded Entity (hybrid/treaty claim) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Disregarded Entity (non-hybrid)</masterLabel>
+        <translation><!-- Disregarded Entity (non-hybrid) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Estate</masterLabel>
+        <translation><!-- Estate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Government</masterLabel>
+        <translation><!-- Government --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Grantor Trust (hybrid/treaty claim)</masterLabel>
+        <translation><!-- Grantor Trust (hybrid/treaty claim) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Grantor Trust (non-hybrid)</masterLabel>
+        <translation><!-- Grantor Trust (non-hybrid) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Partnership (hybrid/treaty claim)</masterLabel>
+        <translation><!-- Partnership (hybrid/treaty claim) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Partnership (non-hybrid)</masterLabel>
+        <translation><!-- Partnership (non-hybrid) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Private Foundation</masterLabel>
+        <translation><!-- Private Foundation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Simple Trust (hybrid/treaty claim)</masterLabel>
+        <translation><!-- Simple Trust (hybrid/treaty claim) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Simple Trust (non-hybrid)</masterLabel>
+        <translation><!-- Simple Trust (non-hybrid) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tax-exempt Organization</masterLabel>
+        <translation><!-- Tax-exempt Organization --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

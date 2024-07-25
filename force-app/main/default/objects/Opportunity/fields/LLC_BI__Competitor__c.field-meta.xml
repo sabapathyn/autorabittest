@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Competitor__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist field is manually selected and optional. It is used to specify the competitor of the financial institution that the opportunity was lost or could be lost to.</description>
+    <label>Competitor</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Anchor Bank</fullName>
+                <default>false</default>
+                <label>Anchor Bank</label>
+            </value>
+            <value>
+                <fullName>Associated</fullName>
+                <default>false</default>
+                <label>Associated</label>
+            </value>
+            <value>
+                <fullName>Bank of America</fullName>
+                <default>false</default>
+                <label>Bank of America</label>
+            </value>
+            <value>
+                <fullName>BMO Harris</fullName>
+                <default>false</default>
+                <label>BMO Harris</label>
+            </value>
+            <value>
+                <fullName>BOA</fullName>
+                <default>false</default>
+                <label>BOA</label>
+            </value>
+            <value>
+                <fullName>Chase</fullName>
+                <default>false</default>
+                <label>Chase</label>
+            </value>
+            <value>
+                <fullName>Fifth Third</fullName>
+                <default>false</default>
+                <label>Fifth Third</label>
+            </value>
+            <value>
+                <fullName>First Midwest</fullName>
+                <default>false</default>
+                <label>First Midwest</label>
+            </value>
+            <value>
+                <fullName>MB</fullName>
+                <default>false</default>
+                <label>MB</label>
+            </value>
+            <value>
+                <fullName>PNC</fullName>
+                <default>false</default>
+                <label>PNC</label>
+            </value>
+            <value>
+                <fullName>The Private Bank</fullName>
+                <default>false</default>
+                <label>The Private Bank</label>
+            </value>
+            <value>
+                <fullName>US Bank</fullName>
+                <default>false</default>
+                <label>US Bank</label>
+            </value>
+            <value>
+                <fullName>Wells Fargo</fullName>
+                <default>false</default>
+                <label>Wells Fargo</label>
+            </value>
+            <value>
+                <fullName>Wintrust</fullName>
+                <default>false</default>
+                <label>Wintrust</label>
+            </value>
+            <value>
+                <fullName>Smaller Community Bank</fullName>
+                <default>false</default>
+                <label>Smaller Community Bank</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

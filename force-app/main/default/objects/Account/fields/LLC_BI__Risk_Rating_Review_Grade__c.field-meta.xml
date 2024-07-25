@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Risk_Rating_Review_Grade__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system autopopulates this optional field to indicate the latest risk rating review grade. By default, it is blank.</description>
+    <externalId>false</externalId>
+    <label>Risk Rating Review Grade</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the account holder has certified that he/she/it is exempt from backup withholding. --></help>
+    <label><!-- Backup Withholding Exempt Indicator --></label>
+    <name>LLC_BI__Backup_Withholding_Exempt_Indicator__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;If you have already set up this org with nCheck, &lt;/strong&gt;&lt;a href=&quot;https://ncinocommunity.force.com/s/ncheck&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt;&lt;strong style=&quot;font-size: 16px; color: rgb(116, 116, 116);&quot;&gt; &lt;/strong&gt;&lt;strong style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;to go straight to nCheck and validate your exercises.&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;If you haven&apos;t connected this org to nCheck then follow the set up instructions below on the left.&lt;/strong&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <identifier>flexipage_richText5</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>region1</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;font-size: 22px; color: rgb(0, 0, 0);&quot;&gt;Set Up nCheck for this Org&lt;/strong&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <identifier>flexipage_richText</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Setting up your training org with nCheck only takes a minute, just follow the steps below. &lt;/span&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;This should only be done the first time you set up nCheck for this org&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;, or when you need to re-authenticate this org with nCheck.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;Make sure to read all the steps before carrying them out&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;1)&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; Sign out of any other Salesforce or nCino orgs you have open. You can check this by clicking on the profile icon on the top right hand side of any salesforce or nCino org&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;2)&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; Connect your org to nCheck by&lt;/span&gt; &lt;a href=&quot;https://ncinocommunity.force.com/services/auth/sso/nCheck_Packaging?startURL=%2Fs%2Fncheck&amp;amp;&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;clicking here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;3) &lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Verify that you can see the username of this org on the bottom of the authentication pop-up. &lt;/span&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;Your username should end with @ncinotraining.com&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; If you see your email instead of your username then click &apos;Not you?&apos; to log out of that account, go back, and try again.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;4)&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; Once you see your username for your org, click &apos;Allow&apos; on the authentication pop-up&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;Congratulations!&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; You have successfully set up your org with nCheck will now be directed to its landing page in nCino Community.&lt;/span&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <identifier>flexipage_richText3</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>region2</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;font-size: 22px; color: rgb(0, 0, 0);&quot;&gt;What is nCheck 2&lt;/strong&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <identifier>flexipage_richText2</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;nCheck is your new best friend when attempting any nCino lab exercise. Whether configuration or functional, &lt;/span&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;nCheck is an automated checking tool&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; that can validate whether you successfully followed a lab exercise. If you made any errors, nCheck will pin point you to exactly what you got wrong, and may even offer you some advice on what to change.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;nCheck 2 is our new version of this exercise checking tool, bringing a designed UX, the ability to track your own progress, and a better way to validate each part of your lab exercises on a granular level.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;On nCheck 2&apos;s landing page you can select your learning plan, such as &lt;/span&gt;&lt;em style=&quot;color: rgb(0, 0, 0);&quot;&gt;Commercial Configuration &lt;/em&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;or &lt;/span&gt;&lt;em style=&quot;color: rgb(0, 0, 0);&quot;&gt;Commercial Capstone&lt;/em&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;, and this will take you to the course view. From there you will be able to navigate to the right exercise and grade each step you have completed.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;color: rgb(0, 0, 0);&quot;&gt;This version of nCheck is still in its pilot phase&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;, and if you experience any issues then please let us know by sending an e-mail to certifications@ncino.com&lt;/span&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <identifier>flexipage_richText4</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>region3</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>nCheck 2</masterLabel>
+    <template>
+        <name>flexipage:appHomeTemplateHeaderTwoColumnsLeftSidebar</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>

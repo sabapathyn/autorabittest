@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W9_Enty_Desc_Disreg_Enty_USOwner__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional text field with a description of the disregarded entity&apos;s non-disregarded owner type if the type is not listed among the standard options.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the non-standard type of the disregarded entity&apos;s non-disregarded owner type.</inlineHelpText>
+    <label>Form W9 Enty Desc of Disreg Enty USOwner</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

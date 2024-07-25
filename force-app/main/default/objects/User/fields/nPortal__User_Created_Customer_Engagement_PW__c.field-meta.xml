@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__User_Created_Customer_Engagement_PW__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>The system automatically selects this checkbox field if the user has created their own password for the Customer Engagement Solution (such as through self-registration, an online application workflow, or Single Sign-On).</description>
+    <label>User-Created Customer Engagement PW</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

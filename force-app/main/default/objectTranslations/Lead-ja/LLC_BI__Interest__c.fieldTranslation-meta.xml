@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>これは、複数のオプションを選択できるカスタムマルチセレクト選択リストの例です。</help>
+    <label>利子</label>
+    <name>LLC_BI__Interest__c</name>
+    <picklistValues>
+        <masterLabel>Product 1</masterLabel>
+        <translation>商品1</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product 2</masterLabel>
+        <translation>商品2</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product 3</masterLabel>
+        <translation>商品3</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Services</masterLabel>
+        <translation>サービス</translation>
+    </picklistValues>
+</CustomFieldTranslation>

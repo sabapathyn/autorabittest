@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Next_Steps__c</fullName>
+    <description>A picklist to guide the user through the next step after completing auto-decisioning on a loan. The selection of this field renders additional routes within the Retail Loan UI.</description>
+    <label>Next Steps</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Submit for Approval</fullName>
+                <default>false</default>
+                <label>Submit for Approval</label>
+            </value>
+            <value>
+                <fullName>Initiate Adverse Action</fullName>
+                <default>false</default>
+                <label>Initiate Adverse Action</label>
+            </value>
+            <value>
+                <fullName>Manual Underwriting - Counter Offer</fullName>
+                <default>false</default>
+                <label>Manual Underwriting - Counter Offer</label>
+            </value>
+            <value>
+                <fullName>Manual Underwriting</fullName>
+                <default>false</default>
+                <label>Manual Underwriting</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

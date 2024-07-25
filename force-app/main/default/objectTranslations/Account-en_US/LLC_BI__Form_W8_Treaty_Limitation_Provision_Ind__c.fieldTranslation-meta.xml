@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the owner is not an individual derives the income for which the treaty benefits are claimed. --></help>
+    <label><!-- Form W8 Treaty Limitation Provision --></label>
+    <name>LLC_BI__Form_W8_Treaty_Limitation_Provision_Ind__c</name>
+</CustomFieldTranslation>

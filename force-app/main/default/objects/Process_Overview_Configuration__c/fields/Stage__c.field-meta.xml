@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Stage__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <description>This is the name of the loan processing stage. It must match exactly the stage name used in the stage picklist on the loan object.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This is the name of the loan processing stage. It must match exactly the stage name used in the stage picklist on the loan object.</inlineHelpText>
+    <label>Stage</label>
+    <length>255</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>

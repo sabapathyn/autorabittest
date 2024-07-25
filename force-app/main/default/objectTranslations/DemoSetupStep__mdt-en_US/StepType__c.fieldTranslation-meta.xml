@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Automatic indicates a fully automated step, requiring an Automation Class.  Manual is a manual step without a confirmation.  Manual-Confirmation is a fully manual step that will ask the user to confirm the step. --></help>
+    <label><!-- Step Type --></label>
+    <name>StepType__c</name>
+    <picklistValues>
+        <masterLabel>Automatic</masterLabel>
+        <translation><!-- Automatic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Manual</masterLabel>
+        <translation><!-- Manual --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Manual-Confirm</masterLabel>
+        <translation><!-- Manual-Confirm --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Modal</masterLabel>
+        <translation><!-- Modal --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Governing_Law_State__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Governing Law State</description>
+    <inlineHelpText>The governing law state of the trust.</inlineHelpText>
+    <label>Governing Law State</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>California</fullName>
+                <default>false</default>
+                <label>California</label>
+            </value>
+            <value>
+                <fullName>Connecticut</fullName>
+                <default>false</default>
+                <label>Connecticut</label>
+            </value>
+            <value>
+                <fullName>North Carolina</fullName>
+                <default>false</default>
+                <label>North Carolina</label>
+            </value>
+            <value>
+                <fullName>North Dakota</fullName>
+                <default>false</default>
+                <label>North Dakota</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

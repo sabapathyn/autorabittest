@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>本欄は起動時にBOTが作動します。</help>
+    <label>BOT日</label>
+    <name>LLC_BI__Bot_Date__c</name>
+</CustomFieldTranslation>

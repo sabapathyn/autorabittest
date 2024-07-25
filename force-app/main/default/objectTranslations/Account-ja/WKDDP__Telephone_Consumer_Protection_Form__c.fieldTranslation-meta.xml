@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this checkbox to indicate that the financial institution wants to generate a Telephone Consumer Protection Act Consent Account form for the individual account holder. --></help>
+    <label><!-- Telephone Consumer Protection Form --></label>
+    <name>WKDDP__Telephone_Consumer_Protection_Form__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates type of documentation that the Owner-Documented Foreign Financial Institution (FFI) will provide (either an independent law firm&apos;s audit letter, or other alternative reporting statements), as prescribed by IRS forms W-8. --></help>
+    <label><!-- Form W8 FFI Documentation Type --></label>
+    <name>LLC_BI__Form_W8_FFI_Documentation_Type__c</name>
+    <picklistValues>
+        <masterLabel>Auditor&apos;s Letter</masterLabel>
+        <translation><!-- Auditor&apos;s Letter --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reporting Statement on Individual Primaries</masterLabel>
+        <translation><!-- Reporting Statement on Individual Primaries --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

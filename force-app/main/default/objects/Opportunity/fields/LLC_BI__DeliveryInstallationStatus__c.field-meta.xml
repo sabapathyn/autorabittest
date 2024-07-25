@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DeliveryInstallationStatus__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This is a manually entered and optional field. This picklist field is used to specify the status of the product the opportunity is related to (eg. in progress, not yet started, completed). Workflow can be configured to automatically change the statuses when certain actions are completed by the user.  Generally this field would be used for Treasury Services products.</description>
+    <label>Delivery/Installation Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>In progress</fullName>
+                <default>false</default>
+                <label>In progress</label>
+            </value>
+            <value>
+                <fullName>Yet to begin</fullName>
+                <default>false</default>
+                <label>Yet to begin</label>
+            </value>
+            <value>
+                <fullName>Completed</fullName>
+                <default>false</default>
+                <label>Completed</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

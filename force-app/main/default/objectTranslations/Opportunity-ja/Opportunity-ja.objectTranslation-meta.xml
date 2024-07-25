@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Xml Response Test --></label>
+        <name>nFORCE__Xml_Response_Test</name>
+    </fieldSets>
+    <recordTypes>
+        <description><!-- Select for a New Commercial Loan Opportunity --></description>
+        <label><!-- Commercial Loan --></label>
+        <name>Commercial_Loan</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Select for a New Deposit Opportunity --></description>
+        <label><!-- Deposit --></label>
+        <name>Deposit</name>
+    </recordTypes>
+    <recordTypes>
+        <description>新規融資商談を選択</description>
+        <label>融資</label>
+        <name>LLC_BI__Loan</name>
+    </recordTypes>
+    <recordTypes>
+        <description>新規財務管理商談を選択</description>
+        <label>財務管理</label>
+        <name>LLC_BI__Treasury_Management</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Select for a New Retail Loan Opportunity --></description>
+        <label><!-- Retail Loan --></label>
+        <name>Retail_Loan</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- Convert_to_Product_Package_Custom --></label>
+        <name>Convert_to_Product_Package_Custom</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert_to_nCino --></label>
+        <name>Convert_to_nCino</name>
+    </webLinks>
+    <webLinks>
+        <label>預金案件作成</label>
+        <name>LLC_BI__Convert_To_Deposit</name>
+    </webLinks>
+    <webLinks>
+        <label>新規案件パッケージ</label>
+        <name>LLC_BI__Convert_to_Product_Package</name>
+    </webLinks>
+    <webLinks>
+        <label>付帯サービス案件作成</label>
+        <name>LLC_BI__Convert_to_Treasury_Services</name>
+    </webLinks>
+    <webLinks>
+        <label>配送状況</label>
+        <name>LLC_BI__DeliveryStatus</name>
+    </webLinks>
+    <webLinks>
+        <label>新規見積</label>
+        <name>LLC_BI__New_Proforma</name>
+    </webLinks>
+    <webLinks>
+        <label>オーダー入力</label>
+        <name>LLC_BI__Order_Entry</name>
+    </webLinks>
+    <webLinks>
+        <label>見積概要</label>
+        <name>LLC_BI__Proforma_Summary</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Proforma_Summary --></label>
+        <name>Proforma_Summary</name>
+    </webLinks>
+    <webLinks>
+        <label>配送状況</label>
+        <name>nFORMS__DeliveryStatus</name>
+    </webLinks>
+    <webLinks>
+        <label>新規小売融資</label>
+        <name>nRetail__Convert_Retail_Loan</name>
+    </webLinks>
+</CustomObjectTranslation>

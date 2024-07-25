@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>brandon.hill.mtwiifjrtife.9tykqpkdftvk@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>jpadmin.at2wirfxzmay.ztnyebwrjpby@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>jpadmin2.cthtcrzkkpbl.dhyhdzhp7kji@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>skyler.pullum.2zed7qwhd13r.cifqmsr029sk@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>natarajan.kanagasabapathy82@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>drew.heath.8wo50ffiacw3.ceyximwefcjq@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>hank.mitsch.ds1frjsv9g9a.kqjzi46lmmp7@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>kyle.west.js9ot2nqr8cw.bgvwswtiqsjm@ncinotraining.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>PRM Reports</name>
+</ReportFolder>

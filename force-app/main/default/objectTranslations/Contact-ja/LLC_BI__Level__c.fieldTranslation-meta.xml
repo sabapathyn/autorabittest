@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>レベル</label>
+    <name>LLC_BI__Level__c</name>
+    <picklistValues>
+        <masterLabel>Primary</masterLabel>
+        <translation>主要な</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Secondary</masterLabel>
+        <translation>二次</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tertiary</masterLabel>
+        <translation><!-- Tertiary --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- - - DEPRECATED- -  Geolocation field required for a test case. For testing only. --></help>
+    <label><!-- -D TESTING ONLY - Test GeoField --></label>
+    <name>LLC_BI__DONOTPACKAGE_GeoField__c</name>
+</CustomFieldTranslation>

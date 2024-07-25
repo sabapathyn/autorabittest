@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Users select the birth state and enter the birth city of the account holder. --></help>
+    <label>誕生 市区町村</label>
+    <name>WKDDP__Birth_City__c</name>
+</CustomFieldTranslation>

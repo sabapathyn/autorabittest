@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The name of the publicly-traded NFFE corporation with which the beneficial owner is related by affiliation. --></help>
+    <label><!-- Form W8 Affiliated NFFE --></label>
+    <name>LLC_BI__Form_W8_Affiliated_NFFE__c</name>
+</CustomFieldTranslation>

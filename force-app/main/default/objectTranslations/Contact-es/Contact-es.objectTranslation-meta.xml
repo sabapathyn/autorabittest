@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Address --></label>
+        <name>Address</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Applicant Details Custom --></label>
+        <name>Applicant_Details_Custom</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement Individuals --></label>
+        <name>Entity_Involvement_Individuals</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Equifax Credit --></label>
+        <name>Equifax_Credit</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- IBCL Applicant Details --></label>
+        <name>IBCL_Applicant_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Authorized Relationship - Individuals --></label>
+        <name>LLC_BI__Authorized_Relationship_Individuals</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Authorized Signer - Search Contacts --></label>
+        <name>LLC_BI__Authorized_Signer_Search_Contacts</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Authorized Signer - Suggested Contacts --></label>
+        <name>LLC_BI__Authorized_Signer_Suggested_Contacts</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Maintenance --></label>
+        <name>LLC_BI__Contact_Maintenance_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Contact Maintenance Snapshot --></label>
+        <name>LLC_BI__Contact_Maintenance_Snapshot</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Individual Relationship Details --></label>
+        <name>LLC_BI__Deposit_Individual_Relationship_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement All Relationships --></label>
+        <name>LLC_BI__Entity_Involvement_All_Relationships</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement Individuals Field Set --></label>
+        <name>LLC_BI__Entity_Involvement_Individuals_Field_Set</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement New Individual Fields --></label>
+        <name>LLC_BI__Entity_Involvement_New_Individual_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Indirect Lending Individual Identifiers --></label>
+        <name>LLC_BI__Indirect_Lending_Individual_Identifiers</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Treasury Mass Actions Contacts --></label>
+        <name>LLC_BI__Treasury_Mass_Actions_Contacts</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RL OA - Additional Income --></label>
+        <name>RL_OA_Additional_Income</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RL OA - Income --></label>
+        <name>RL_OA_Income</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Borrower Details --></label>
+        <name>RMOR__Borrower_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- WK DepAct DocPrep --></label>
+        <name>WKDDP__WK_DepAct_DocPrep</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- WK DepAct DocPrep Bus --></label>
+        <name>WKDDP__WK_DepAct_DocPrep_BusCon</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- WK DepAct DocPrep Ind --></label>
+        <name>WKDDP__WK_DepAct_DocPrep_IndCon</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- EMEA Commercial Onboarding New Individual --></label>
+        <name>nCino__Customer_Onboarding_New_Individual</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nDesign Test --></label>
+        <name>nDESIGN__nDesign_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>nFORCE__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nCino User Interface Test --></label>
+        <name>nFORCE__nCino_User_Interface_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nDesign Test --></label>
+        <name>nFORCE__nDesign_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Beneficial Owners Contact Information OA --></label>
+        <name>nPortal__Beneficial_Owners_Contact_Information_OA</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Cross-Sell Credit Card Housing Expense --></label>
+        <name>nPortal__Cross_Sell_Credit_Card_Housing_Expense</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Owners Contact Information MRF --></label>
+        <name>nPortal__DEP_Co_Owners_Multi_Record</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Application Personal Contact Information (Individual) --></label>
+        <name>nPortal__DEP_Personal_Contact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Application Personal Contact Information (Business) --></label>
+        <name>nPortal__DEP_Personal_Contact_Business</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Application Personal Contact Information (Additional Owner) --></label>
+        <name>nPortal__DEP_Personal_Contact_Owner</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RL Personal Contact Information --></label>
+        <name>nPortal__RL_Personal_Contact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RL Personal Contact Information (Individual Other Involved) --></label>
+        <name>nPortal__RL_Personal_Contact_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RL Personal SSN Information --></label>
+        <name>nPortal__RL_Personal_SSN</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RL Personal SSN Information (Individual Other Involved) --></label>
+        <name>nPortal__RL_Personal_SSN_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Others Involved Contact Information MRF --></label>
+        <name>nPortal__SBL_Others_Involved_Multi_Record</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Personal Contact Information --></label>
+        <name>nPortal__SBL_Personal_Contact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Personal Contact Information (Individual Other Involved) --></label>
+        <name>nPortal__SBL_Personal_Contact_Individual_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Personal SSN Information --></label>
+        <name>nPortal__SBL_Personal_SSN</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Personal SSN Information (Individual Other Involved) --></label>
+        <name>nPortal__SBL_Personal_SSN_Individual_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured RL Personal Contact Information --></label>
+        <name>nPortal__Secured_RL_Personal_Contact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured RL Personal Contact Information (Individual Other Involved) --></label>
+        <name>nPortal__Secured_RL_Personal_Contact_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured RL Personal SSN Information --></label>
+        <name>nPortal__Secured_RL_Personal_SSN</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured RL Personal SSN Information (Individual Other Involved) --></label>
+        <name>nPortal__Secured_RL_Personal_SSN_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Personal Contact Information --></label>
+        <name>nPortal__Secured_SBL_Personal_Contact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Personal Contact Information (Individual Other Involved) --></label>
+        <name>nPortal__Secured_SBL_Personal_Contact_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Personal SSN Information --></label>
+        <name>nPortal__Secured_SBL_Personal_SSN</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Personal SSN Information (Individual Other Involved) --></label>
+        <name>nPortal__Secured_SBL_Personal_SSN_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Applicant Details --></label>
+        <name>nRetail__Applicant_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Borrower Information --></label>
+        <name>nRetail__Borrower_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Current Address --></label>
+        <name>nRetail__Current_Address</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Mailing Address --></label>
+        <name>nRetail__Mailing_Address</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Marital Status and Dependents --></label>
+        <name>nRetail__Marital_Status_And_Dependents</name>
+    </fieldSets>
+    <recordTypes>
+        <description><!-- Select &quot;Business Contact&quot; if you&apos;re adding a contact that applies to a Business relationship. --></description>
+        <label><!-- Business Contact --></label>
+        <name>LLC_BI__Business_Contact</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Select &quot;Individual Contact&quot; if you&apos;re adding a contact that applies to an Individual relationship. --></description>
+        <label><!-- Individual Contact --></label>
+        <name>LLC_BI__Individual_Contact</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- For this type of Loan, Annual Income cannot be less than $10000 --></errorMessage>
+        <name>Annual_Income_cannot_be_negative</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Contacts assigned to an Individual Account cannot be reassigned to a different Account. --></errorMessage>
+        <name>LLC_BI__Prevent_Reassigning_Individual_Contacts</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If contact is not a US citizen a country of citizenship must be selected. --></errorMessage>
+        <name>LLC_BI__Require_Country_of_Citizenship</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Social Security Number cannot exceed 12 characters --></errorMessage>
+        <name>LLC_BI__Social_Security_Max_Length</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- SendGmail --></label>
+        <name>SendGmail</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooMaps --></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooWeather --></label>
+        <name>YahooWeather</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Form_Generation --></label>
+        <name>nFORMS__Form_Generation</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>商品</label>
+    <name>LLC_BI__Product__c</name>
+    <picklistValues>
+        <masterLabel>Commercial Checking Account</masterLabel>
+        <translation><!-- Commercial Checking Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Commercial Savings Account</masterLabel>
+        <translation><!-- Commercial Savings Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Construction</masterLabel>
+        <translation>建設</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Equipment</masterLabel>
+        <translation>装置</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Line of Credit</masterLabel>
+        <translation>極度融資</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New Auto Loan</masterLabel>
+        <translation><!-- New Auto Loan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Preferred Checking Account</masterLabel>
+        <translation><!-- Preferred Checking Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Preferred Savings Account</masterLabel>
+        <translation><!-- Preferred Savings Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Revolving Credit Card</masterLabel>
+        <translation><!-- Revolving Credit Card --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Syndication</masterLabel>
+        <translation><!-- Syndication --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Term Loan</masterLabel>
+        <translation>期間ローン</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Used Auto Loan</masterLabel>
+        <translation><!-- Used Auto Loan --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

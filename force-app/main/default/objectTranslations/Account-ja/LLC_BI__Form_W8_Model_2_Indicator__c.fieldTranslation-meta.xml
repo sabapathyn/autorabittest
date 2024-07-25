@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The entity that is a &apos;Nonreporting IGA FFI&apos; is also treated as a registered deemed-compliant FFI under a &apos;Model 2&apos; IGA, as defined in Part XII of IRS form W-8BEN-E. --></help>
+    <label><!-- Form W8 Model 2 Indicator --></label>
+    <name>LLC_BI__Form_W8_Model_2_Indicator__c</name>
+</CustomFieldTranslation>

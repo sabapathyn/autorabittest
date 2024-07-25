@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this field if the holder&apos;s application for the tax identification number (TIN) exists. --></help>
+    <label><!-- Backup Withholding TIN Applied For --></label>
+    <name>WKDDP__Backup_Withholding_Number_Applied_For__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>家計を一にする扶養家族の人数を記入してください。</help>
+    <label>家族数</label>
+    <name>LLC_BI__Number_of_Dependents__c</name>
+</CustomFieldTranslation>

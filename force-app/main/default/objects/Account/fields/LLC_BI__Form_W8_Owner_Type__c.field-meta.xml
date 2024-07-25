@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Owner_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It specifies the type of owner (or &apos;Chapter 3 Status&apos;) that is listed on the applicable IRS Form W-8 (e.g., W-8BEN-E, Certificate of Foreign Status of Beneficial Owner - Entity). Note that for several types there are two options distinguishing between hybri...</description>
+    <inlineHelpText>Specifies the type of owner (or &apos;Chapter 3 Status&apos;) that is listed on the applicable IRS Form W-8.</inlineHelpText>
+    <label>Form W8 Owner Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Corporation</fullName>
+                <default>false</default>
+                <label>Corporation</label>
+            </value>
+            <value>
+                <fullName>Disregarded Entity (non-hybrid)</fullName>
+                <default>false</default>
+                <label>Disregarded Entity (non-hybrid)</label>
+            </value>
+            <value>
+                <fullName>Partnership (non-hybrid)</fullName>
+                <default>false</default>
+                <label>Partnership (non-hybrid)</label>
+            </value>
+            <value>
+                <fullName>Simple Trust (non-hybrid)</fullName>
+                <default>false</default>
+                <label>Simple Trust (non-hybrid)</label>
+            </value>
+            <value>
+                <fullName>Grantor Trust (non-hybrid)</fullName>
+                <default>false</default>
+                <label>Grantor Trust (non-hybrid)</label>
+            </value>
+            <value>
+                <fullName>Complex Trust</fullName>
+                <default>false</default>
+                <label>Complex Trust</label>
+            </value>
+            <value>
+                <fullName>Estate</fullName>
+                <default>false</default>
+                <label>Estate</label>
+            </value>
+            <value>
+                <fullName>Government</fullName>
+                <default>false</default>
+                <label>Government</label>
+            </value>
+            <value>
+                <fullName>Central Bank of Issue</fullName>
+                <default>false</default>
+                <label>Central Bank of Issue</label>
+            </value>
+            <value>
+                <fullName>Tax-exempt Organization</fullName>
+                <default>false</default>
+                <label>Tax-exempt Organization</label>
+            </value>
+            <value>
+                <fullName>Private Foundation</fullName>
+                <default>false</default>
+                <label>Private Foundation</label>
+            </value>
+            <value>
+                <fullName>Disregarded Entity (hybrid/treaty claim)</fullName>
+                <default>false</default>
+                <label>Disregarded Entity (hybrid/treaty claim)</label>
+            </value>
+            <value>
+                <fullName>Partnership (hybrid/treaty claim)</fullName>
+                <default>false</default>
+                <label>Partnership (hybrid/treaty claim)</label>
+            </value>
+            <value>
+                <fullName>Simple Trust (hybrid/treaty claim)</fullName>
+                <default>false</default>
+                <label>Simple Trust (hybrid/treaty claim)</label>
+            </value>
+            <value>
+                <fullName>Grantor Trust (hybrid/treaty claim)</fullName>
+                <default>false</default>
+                <label>Grantor Trust (hybrid/treaty claim)</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

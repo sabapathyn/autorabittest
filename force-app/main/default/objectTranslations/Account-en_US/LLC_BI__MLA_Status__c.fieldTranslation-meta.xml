@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Users select or integration populates this optional boolean field to indicate if a consumer qualifies for the Military Lending Act when creating or updating a relationship. --></help>
+    <label><!-- MLA Status --></label>
+    <name>LLC_BI__MLA_Status__c</name>
+</CustomFieldTranslation>

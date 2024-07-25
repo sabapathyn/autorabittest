@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>ボットがサービスを受ける関係から要求する日付範囲の終わり</help>
+    <label>日付の声明</label>
+    <name>LLC_BI__Statement_To_Date__c</name>
+</CustomFieldTranslation>

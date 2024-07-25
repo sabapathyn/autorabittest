@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>StepDependsOn__c</fullName>
+    <description>If this field is not blank, then the step number indicated MUST be completed before this step will be enabled.  Be sure you&apos;ve indicated a step that exists and is active.</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>If this field is not blank, then the step number indicated MUST be completed before this step will be enabled.  Be sure you&apos;ve indicated a step that exists and is active.</inlineHelpText>
+    <label>Step Depends On</label>
+    <precision>3</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

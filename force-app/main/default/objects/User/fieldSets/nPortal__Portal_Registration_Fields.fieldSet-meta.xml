@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nPortal__Portal_Registration_Fields</fullName>
+    <description>Deprecated - this fieldset has been replaced with manual configuration steps. Please reference install instructions for more information.</description>
+    <label>-D Portal Registration Fields</label>
+</FieldSet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Backup_Withholding_N_A_Indicator__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. If true, the holder whose tax identification number (TIN) was used for backup withholding purposes is certifying that they are not subject to backup withholding.</description>
+    <inlineHelpText>If true the holder whose tax identification number (TIN) was used for backup withholding purposes is certifying that he/she/it is not subject to backup withholding.</inlineHelpText>
+    <label>Backup Withholding N/A Indicator</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

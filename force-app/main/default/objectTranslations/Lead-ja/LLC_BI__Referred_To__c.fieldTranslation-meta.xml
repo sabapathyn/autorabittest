@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>参照先</label>
+    <name>LLC_BI__Referred_To__c</name>
+    <picklistValues>
+        <masterLabel>BofA</masterLabel>
+        <translation><!-- BofA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PPC</masterLabel>
+        <translation><!-- PPC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>US Bank</masterLabel>
+        <translation><!-- US Bank --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wells Fargo</masterLabel>
+        <translation><!-- Wells Fargo --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

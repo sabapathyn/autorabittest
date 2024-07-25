@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Account</masterLabel>
+        <translation>アカウント</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Billing</masterLabel>
+        <translation>請求</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Case</masterLabel>
+        <translation>場合</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>General</masterLabel>
+        <translation>全般的</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Order</masterLabel>
+        <translation>オーダー</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Other</masterLabel>
+        <translation>その他</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Product</masterLabel>
+        <translation>商品</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

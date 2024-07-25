@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Patriot_Act_Alert__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this checkbox to indicate that a users information flagged a Patriot Act Alert from IDology to Data Services.</description>
+    <inlineHelpText>The system automatically selects this checkbox.</inlineHelpText>
+    <label>Patriot Act Alert</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>システムは自動的にこのチェックボックスを選択します。</help>
+    <label>愛国者法</label>
+    <name>LLC_BI__Patriot_Act_Alert__c</name>
+</CustomFieldTranslation>

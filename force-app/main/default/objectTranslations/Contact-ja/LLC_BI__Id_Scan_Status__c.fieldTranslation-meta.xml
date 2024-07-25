@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>IDスーペンタセス</label>
+    <name>LLC_BI__Id_Scan_Status__c</name>
+    <picklistValues>
+        <masterLabel>Bad Image</masterLabel>
+        <translation>不適切な画像</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Communication Error</masterLabel>
+        <translation>通信エラー</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ID Scan Failure</masterLabel>
+        <translation>IDスキャン失敗</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ID Scan Success</masterLabel>
+        <translation>IDスキャン成功</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vendor Error</masterLabel>
+        <translation>ベンダーエラー</translation>
+    </picklistValues>
+</CustomFieldTranslation>

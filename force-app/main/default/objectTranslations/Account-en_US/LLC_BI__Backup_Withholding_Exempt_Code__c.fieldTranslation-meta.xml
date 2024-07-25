@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The code representing the party&apos;s reason for claiming exemption from backup withholding. The numeric codes are defined by the instructions contained within IRS Form W-9. --></help>
+    <label><!-- Backup Withholding Exempt Code --></label>
+    <name>LLC_BI__Backup_Withholding_Exempt_Code__c</name>
+    <picklistValues>
+        <masterLabel>Bank-operated 584(a) trust fund</masterLabel>
+        <translation><!-- Bank-operated 584(a) trust fund --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CFTC-registered futures commission merchant</masterLabel>
+        <translation><!-- CFTC-registered futures commission merchant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporation</masterLabel>
+        <translation><!-- Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fegistered under Investment Company Act</masterLabel>
+        <translation><!-- Fegistered under Investment Company Act --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial institution</masterLabel>
+        <translation><!-- Financial institution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Foreign government, agency or instrumentality</masterLabel>
+        <translation><!-- Foreign government, agency or instrumentality --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IRA or qualifying 501(a) or 403(b)(7) account</masterLabel>
+        <translation><!-- IRA or qualifying 501(a) or 403(b)(7) account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Investment community nominee</masterLabel>
+        <translation><!-- Investment community nominee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate Investment Trust</masterLabel>
+        <translation><!-- Real Estate Investment Trust --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Section 664 trust</masterLabel>
+        <translation><!-- Section 664 trust --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>U.S. State, District, possession</masterLabel>
+        <translation><!-- U.S. State, District, possession --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>U.S. agency or instrumentality</masterLabel>
+        <translation><!-- U.S. agency or instrumentality --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>U.S. registered securities or commodities dealer</masterLabel>
+        <translation><!-- U.S. registered securities or commodities dealer --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

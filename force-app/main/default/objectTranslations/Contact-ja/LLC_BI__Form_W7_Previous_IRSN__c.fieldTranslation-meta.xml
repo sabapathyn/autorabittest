@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The individual Holder&apos;s IRSN number if one has been previously issued used for purposes of the Form W-7 Application for Individual Taxpayer Identification Number (ITIN). --></help>
+    <label><!-- Form W7 Previous IRSN --></label>
+    <name>LLC_BI__Form_W7_Previous_IRSN__c</name>
+</CustomFieldTranslation>

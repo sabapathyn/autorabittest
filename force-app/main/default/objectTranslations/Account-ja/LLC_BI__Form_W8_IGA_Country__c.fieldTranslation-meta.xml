@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The country with which the US has an intergovernmental agreement (IGA), under which the beneficial owner qualifies as a nonreporting foreign financial institution (FFI). --></help>
+    <label><!-- Form W8 IGA Country --></label>
+    <name>LLC_BI__Form_W8_IGA_Country__c</name>
+</CustomFieldTranslation>

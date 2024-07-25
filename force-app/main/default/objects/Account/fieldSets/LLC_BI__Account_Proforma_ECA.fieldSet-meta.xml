@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Account_Proforma_ECA</fullName>
+    <availableFields>
+        <field>LLC_BI__Average_Ledger_Balance__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
+        <field>LLC_BI__Average_Unavailable__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <description>Account</description>
+    <label>Account_Proforma_ECA</label>
+</FieldSet>

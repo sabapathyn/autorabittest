@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>現在の銀行</label>
+    <name>LLC_BI__Current_Bank__c</name>
+    <picklistValues>
+        <masterLabel>Anchor Bank</masterLabel>
+        <translation><!-- Anchor Bank --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Associated</masterLabel>
+        <translation>関連</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>BMO Harris</masterLabel>
+        <translation><!-- BMO Harris --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>BOA</masterLabel>
+        <translation><!-- BOA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Bank of America</masterLabel>
+        <translation>バンク・オブ・アメリカ</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chase</masterLabel>
+        <translation>追跡</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fifth Third</masterLabel>
+        <translation><!-- Fifth Third --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>First Midwest</masterLabel>
+        <translation><!-- First Midwest --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MB</masterLabel>
+        <translation><!-- MB --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation>その他</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PNC</masterLabel>
+        <translation><!-- PNC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Smaller Community Bank</masterLabel>
+        <translation><!-- Smaller Community Bank --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>The Private Bank</masterLabel>
+        <translation><!-- The Private Bank --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>US Bank</masterLabel>
+        <translation><!-- US Bank --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wells Fargo</masterLabel>
+        <translation><!-- Wells Fargo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wintrust</masterLabel>
+        <translation><!-- Wintrust --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This permission set is for nSight Financial&apos;s membership configuration.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Institution - nSight Financial</label>
+</PermissionSet>

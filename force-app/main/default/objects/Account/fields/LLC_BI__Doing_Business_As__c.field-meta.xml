@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Doing_Business_As__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is not required. This field is manually populated. This field is used to store a Sole Proprietor&apos;s business name if it is different than the customer&apos;s name.</description>
+    <label>Doing Business As</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>TextArea</type>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The percentage rate of withholding on the specific type of income on the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding). --></help>
+    <label><!-- Form W8 Special Claim Rate --></label>
+    <name>LLC_BI__Form_W8_Special_Claim_Rate__c</name>
+</CustomFieldTranslation>

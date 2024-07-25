@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>バックアップ源泉徴収目的に税務識別番号（TIN）が使用された所有者は、バックアップ源泉徴収の対象とはならないことを証明している。</help>
+    <label>バックアップ源泉徴収N / Aインジケータ</label>
+    <name>LLC_BI__Backup_Withholding_N_A_Indicator__c</name>
+</CustomFieldTranslation>

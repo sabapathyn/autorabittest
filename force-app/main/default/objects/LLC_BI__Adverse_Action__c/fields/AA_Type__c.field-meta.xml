@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AA_Type__c</fullName>
+    <inlineHelpText>Counter Offer or Declination?</inlineHelpText>
+    <label>AA Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Counter Offer</fullName>
+                <default>false</default>
+                <label>Counter Offer</label>
+            </value>
+            <value>
+                <fullName>Adverse Action</fullName>
+                <default>false</default>
+                <label>Adverse Action</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

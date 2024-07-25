@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Mass_Actions</fullName>
+    <availability>online</availability>
+    <description>This button allows the user to navigate to the Mass Actions home page.</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <linkType>url</linkType>
+    <masterLabel>Mass Actions</masterLabel>
+    <openType>replace</openType>
+    <protected>false</protected>
+    <url>{!URLFOR(&apos;/apex/LLC_BI__MassAdd?&apos;, Account.Id, [id=Account.Id])}</url>
+</WebLink>

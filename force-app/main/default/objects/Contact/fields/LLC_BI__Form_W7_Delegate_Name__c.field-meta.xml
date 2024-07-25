@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_Delegate_Name__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. The name of the person signing on behalf of the account holder. Form specific for the Application for IRS Individual Taxpayer Identification Number (W-7).</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The name of the person signing on behalf of the account holder. Form specific for the Application for IRS Individual Taxpayer Identification Number (W-7).</inlineHelpText>
+    <label>Form W7 Delegate Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

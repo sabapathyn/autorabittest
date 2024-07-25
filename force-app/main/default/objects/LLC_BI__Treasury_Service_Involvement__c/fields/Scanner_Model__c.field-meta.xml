@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Scanner_Model__c</fullName>
+    <label>Scanner Model</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>CheXpress CX30</fullName>
+                <default>false</default>
+                <label>CheXpress CX30</label>
+            </value>
+            <value>
+                <fullName>CR-120</fullName>
+                <default>false</default>
+                <label>CR-120</label>
+            </value>
+            <value>
+                <fullName>CR-150</fullName>
+                <default>false</default>
+                <label>CR-150</label>
+            </value>
+            <value>
+                <fullName>CR190i II</fullName>
+                <default>false</default>
+                <label>CR190i II</label>
+            </value>
+            <value>
+                <fullName>EC7500i Series</fullName>
+                <default>false</default>
+                <label>EC7500i Series</label>
+            </value>
+            <value>
+                <fullName>TellerScan TS240</fullName>
+                <default>false</default>
+                <label>TellerScan TS240</label>
+            </value>
+            <value>
+                <fullName>TellerScan TS500</fullName>
+                <default>false</default>
+                <label>TellerScan TS500</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

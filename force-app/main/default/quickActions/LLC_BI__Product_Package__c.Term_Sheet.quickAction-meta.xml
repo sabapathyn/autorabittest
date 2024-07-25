@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>used to call the custom term sheet flow for deal proposal</description>
+    <flowDefinition>Bulk_Term_Sheet_for_Deal_V2</flowDefinition>
+    <label>Term Sheet</label>
+    <optionsCreateFeedItem>false</optionsCreateFeedItem>
+    <type>Flow</type>
+</QuickAction>

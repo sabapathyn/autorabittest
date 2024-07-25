@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The field the BOT uses to pull when it&apos;s supposed to wake up --></help>
+    <label><!-- Bot Date --></label>
+    <name>LLC_BI__Bot_Date__c</name>
+</CustomFieldTranslation>

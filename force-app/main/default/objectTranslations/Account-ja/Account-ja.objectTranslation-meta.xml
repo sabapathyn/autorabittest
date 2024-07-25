@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Bus Rel Questionnaire - ATMs Onsite --></label>
+        <name>Bus_Rel_Questionnaire_ATMs_Onsite</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Bus Rel Questionnaire - Money Service --></label>
+        <name>Bus_Rel_Questionnaire_Money_Service</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Equifax Credit --></label>
+        <name>Equifax_Credit</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Account_Proforma_ECA --></label>
+        <name>LLC_BI__Account_Proforma_ECA</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Relationship Association --></label>
+        <name>LLC_BI__Collateral_Relationship_Association</name>
+    </fieldSets>
+    <fieldSets>
+        <label>契約相手レポート</label>
+        <name>LLC_BI__Counterparty_Report</name>
+    </fieldSets>
+    <fieldSets>
+        <label>稟議書 標準案件パッケージ</label>
+        <name>LLC_BI__Credit_Memo_Standard_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement Businesses Field Set --></label>
+        <name>LLC_BI__Entity_Involvement_Businesses_Field_Set</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement New Business Fields --></label>
+        <name>LLC_BI__Entity_Involvement_New_Business_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Indirect Lending Business Identifiers --></label>
+        <name>LLC_BI__Indirect_Lending_Business_Identifiers</name>
+    </fieldSets>
+    <fieldSets>
+        <label>融資自動決定条件</label>
+        <name>LLC_BI__Loan_Auto_Decision_Data</name>
+    </fieldSets>
+    <fieldSets>
+        <label>融資自動決定概要</label>
+        <name>LLC_BI__Loan_Auto_Decision_Overview</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- New Proposal --></label>
+        <name>LLC_BI__New_Proposal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Borrowing Structure Field Set --></label>
+        <name>LLC_BI__Product_Package_Borrowing_Structure</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Tier One Obligors --></label>
+        <name>LLC_BI__Product_Package_Tier_One_Obligors</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Tier Two Obligors --></label>
+        <name>LLC_BI__Product_Package_Tier_Two_Obligors</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Maintenance --></label>
+        <name>LLC_BI__Relationship_Maintenance_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Maintenance Snapshot --></label>
+        <name>LLC_BI__Relationship_Maintenance_Snapshot</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- ReviewDetailDisplay --></label>
+        <name>LLC_BI__ReviewDetailDisplay</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- ReviewDisplay --></label>
+        <name>LLC_BI__ReviewDisplay</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Sole Proprietorship Card --></label>
+        <name>LLC_BI__Sole_Proprietorship_Card</name>
+    </fieldSets>
+    <fieldSets>
+        <label>稟議書 標準案件パッケージ</label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label>サードパーティ管理</label>
+        <name>LLC_BI__Third_Party_Management</name>
+    </fieldSets>
+    <fieldSets>
+        <label>総エクスポージャー概要</label>
+        <name>LLC_BI__Total_Exposure_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI_Relationship_Detail --></label>
+        <name>LLC_BI__UI_Relationship_Detail</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Details Deal Proposal --></label>
+        <name>Relationship_Details_Deal_Proposal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- WK DepAct DocPrep --></label>
+        <name>WKDDP__WK_DepAct_DocPrep</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- WK DepAct DocPrep BusAct --></label>
+        <name>WKDDP__WK_DepAct_DocPrep_BusAct</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- WK DepAct DocPrep IndAct --></label>
+        <name>WKDDP__WK_DepAct_DocPrep_IndAct</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- EMEA Commercial Onboarding New Business --></label>
+        <name>nCino__Customer_Onboarding_New_Business</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nDesign Test --></label>
+        <name>nDESIGN__nDesign_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Tree Grid Example --></label>
+        <name>nFORCE__Tree_Grid_Example</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI_Lookup_Fields --></label>
+        <name>nFORCE__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nCino User Interface Test --></label>
+        <name>nFORCE__nCino_User_Interface_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nFORCE nCino User Interface Test Child --></label>
+        <name>nFORCE__nCino_User_Interface_Test_Child</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- nDesign Test --></label>
+        <name>nFORCE__nDesign_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Application Business Information --></label>
+        <name>nPortal__DEP_Business_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Application Business Location --></label>
+        <name>nPortal__DEP_Business_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Account Search Fields --></label>
+        <name>nPortal__Deposit_Account_Search_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- EID Questions Verification --></label>
+        <name>nPortal__EID_Questions_Verification</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Portal_Product_List --></label>
+        <name>nPortal__Portal_Product_List</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Account Search Fields --></label>
+        <name>nPortal__SBL_Account_Search_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Business Information --></label>
+        <name>nPortal__SBL_Business_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Business Location --></label>
+        <name>nPortal__SBL_Business_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBL Eligibility Business Information --></label>
+        <name>nPortal__SBL_Eligibility_Business</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Business Information --></label>
+        <name>nPortal__Secured_SBL_Business_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Business Location --></label>
+        <name>nPortal__Secured_SBL_Business_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secured SBL Business Name --></label>
+        <name>nPortal__Secured_SBL_Business_Name</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Applicant Details --></label>
+        <name>nRetail__Applicant_Details</name>
+    </fieldSets>
+    <recordTypes>
+        <description>「ビジネス」を選択して、企業、パートナーシップ、またはその他のビジネス関係の種類を追加してください。</description>
+        <label>法人</label>
+        <name>LLC_BI__Business</name>
+    </recordTypes>
+    <recordTypes>
+        <description>世帯の関係の種類を追加している場合は、「世帯」を選択してください。</description>
+        <label>関係組織</label>
+        <name>LLC_BI__Household</name>
+    </recordTypes>
+    <recordTypes>
+        <description>個々の関係の種類を追加するには、「個人」を選択します。</description>
+        <label>個人</label>
+        <name>LLC_BI__Individual</name>
+    </recordTypes>
+    <recordTypes>
+        <description>金融機関や機関投資家関係の種類を追加している場合は、「貸し手」を選択してください。</description>
+        <label>貸し手</label>
+        <name>LLC_BI__Lender</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage>税務識別番号は11文字を超えることはできません</errorMessage>
+        <name>LLC_BI__Tax_Identification_Max_Length</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage>日付から日付のステートメントは、日付のステートメントよりも早く行うことはできません。</errorMessage>
+        <name>LLC_BI__To_date_cannot_be_before_from_d_ate</name>
+    </validationRules>
+    <webLinks>
+        <label>Altavistaのニュース</label>
+        <name>AltavistaNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert_to_Treasury --></label>
+        <name>Convert_to_Treasury</name>
+    </webLinks>
+    <webLinks>
+        <label>グーグルマップ</label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label>グーグルニュース</label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label>Google検索</label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label>フォーズプロファイル</label>
+        <name>HooversProfile</name>
+    </webLinks>
+    <webLinks>
+        <label>引受</label>
+        <name>LLC_BI__Account_Spread_Button</name>
+    </webLinks>
+    <webLinks>
+        <label>請求</label>
+        <name>LLC_BI__Billing</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- DocuSign --></label>
+        <name>LLC_BI__DocuSign</name>
+    </webLinks>
+    <webLinks>
+        <label>マスアクション</label>
+        <name>LLC_BI__Mass_Actions</name>
+    </webLinks>
+    <webLinks>
+        <label>新規預金</label>
+        <name>LLC_BI__New_Deposit</name>
+    </webLinks>
+    <webLinks>
+        <label>新規顧客登録</label>
+        <name>LLC_BI__create_new_customer</name>
+    </webLinks>
+    <webLinks>
+        <label>審査</label>
+        <name>LLC_BI__review</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Customer_Onboarding --></label>
+        <name>New_Customer_Onboarding</name>
+    </webLinks>
+    <webLinks>
+        <label>新規中小企業融資</label>
+        <name>New_Small_Business_Loan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Proforma_Summary --></label>
+        <name>Proforma_Summary</name>
+    </webLinks>
+    <webLinks>
+        <label>新規住宅ローン</label>
+        <name>RMOR__New_Mortgage</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Run_Credit --></label>
+        <name>Run_Credit</name>
+    </webLinks>
+    <webLinks>
+        <label>引受</label>
+        <name>Underwriting</name>
+    </webLinks>
+    <webLinks>
+        <label>ヤフー地図</label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label>財務分析</label>
+        <name>nCRED__StatementLauncher</name>
+    </webLinks>
+    <webLinks>
+        <label>請求</label>
+        <name>nFORMS__Billing</name>
+    </webLinks>
+    <webLinks>
+        <label>フォーム作成</label>
+        <name>nFORMS__Form_Generation</name>
+    </webLinks>
+    <webLinks>
+        <label>照合実行</label>
+        <name>nFUSE__Verifications</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Create_Portal_User --></label>
+        <name>nPortal__Create_Portal_User</name>
+    </webLinks>
+    <webLinks>
+        <label>新規リテールローン</label>
+        <name>nRetail__New_Retail_Loan</name>
+    </webLinks>
+</CustomObjectTranslation>

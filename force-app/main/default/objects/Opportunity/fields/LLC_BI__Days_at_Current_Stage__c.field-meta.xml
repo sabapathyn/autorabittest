@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Days_at_Current_Stage__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is automatically populated via formula and is used to specify the number of days the loan associated to the opportunity has been in its current stage.</description>
+    <externalId>false</externalId>
+    <formula>TODAY() - LLC_BI__Start_Date_at_Current_Stage__c</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Days at Current Stage</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,17 @@
+<apex:page showHeader="false" sidebar="false" controller="nFORCE.TemplateController">
+    <nFORCE:Include_Navigator />
+    <apex:composition template="nFORCE__Template_View_1_Column">
+        <apex:define name="column-content">
+            <apex:composition template="nFORCE__Template_View_Container">
+                <apex:define name="content">
+    <button class="slds-button slds-button--brand" onclick="navToLoan()">Navigate to Loan</button>
+                    </apex:define>
+            </apex:composition>
+        </apex:define>
+    </apex:composition>
+    <script>
+        function navToLoan(){
+        LifeCycle.Navigator.navigateToSObject('{!contextObjectId}');
+        }
+    </script>
+</apex:page>

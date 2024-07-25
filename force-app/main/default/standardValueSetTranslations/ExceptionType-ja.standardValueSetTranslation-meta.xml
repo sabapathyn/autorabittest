@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>OM Apply Failed</masterLabel>
+        <translation>OMの申し込みに失敗しました</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OM Capture Failed</masterLabel>
+        <translation>OMキャプチャに失敗しました</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OM Refund Failed</masterLabel>
+        <translation>OM払い戻しに失敗しました</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Place Order Failed</masterLabel>
+        <translation><!-- Place Order Failed --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

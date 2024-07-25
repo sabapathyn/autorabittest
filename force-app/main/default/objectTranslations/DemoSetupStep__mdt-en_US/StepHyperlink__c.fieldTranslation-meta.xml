@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If included, a hyperlink icon will appear for the step and open a new tab to the location indicated. This field is optional, but recommended for any manual steps.  Valid URLs can be full URLs or relative URLs.  Partial URLs are assumed to be within SFDC. --></help>
+    <label><!-- Step Hyperlink --></label>
+    <name>StepHyperlink__c</name>
+</CustomFieldTranslation>

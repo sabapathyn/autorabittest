@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>文書管理ID</label>
+    <name>NDOC__Document_Manager_Identifier__c</name>
+    <picklistValues>
+        <masterLabel>Default</masterLabel>
+        <translation>デフォルト</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Special Account</masterLabel>
+        <translation>特別口座</translation>
+    </picklistValues>
+</CustomFieldTranslation>

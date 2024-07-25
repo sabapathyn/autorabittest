@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>事業税申告書日付</label>
+    <name>LLC_BI__Business_Tax_Return_OC__c</name>
+</CustomFieldTranslation>

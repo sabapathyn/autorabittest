@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_Previous_First_Name__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. The first name of account holder&apos;s previous name.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The first name of account holder&apos;s previous name.</inlineHelpText>
+    <label>Form W7 Previous First Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

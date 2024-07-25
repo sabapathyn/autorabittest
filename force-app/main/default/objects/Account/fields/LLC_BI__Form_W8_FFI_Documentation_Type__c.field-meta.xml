@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_FFI_Documentation_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It indicates the type of documentation that the Owner-Documented Foreign Financial Institution (FFI) will provide (either an independent law firm&apos;s audit letter, or other alternative reporting statements), as prescribed by IRS forms W-8.</description>
+    <inlineHelpText>Indicates type of documentation that the Owner-Documented Foreign Financial Institution (FFI) will provide (either an independent law firm&apos;s audit letter, or other alternative reporting statements), as prescribed by IRS forms W-8.</inlineHelpText>
+    <label>Form W8 FFI Documentation Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Reporting Statement on Individual Primaries</fullName>
+                <default>false</default>
+                <label>Reporting Statement on Individual Primaries</label>
+            </value>
+            <value>
+                <fullName>Auditor&apos;s Letter</fullName>
+                <default>false</default>
+                <label>Auditor&apos;s Letter</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

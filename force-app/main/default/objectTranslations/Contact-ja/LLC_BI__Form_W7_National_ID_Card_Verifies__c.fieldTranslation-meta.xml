@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- National Identification Card (must be current and contain name photograph address date of birth and expiration date) verifies either identity or foreign status (on IRS form W-7(COA)). --></help>
+    <label><!-- Form W7 National ID Card Verifies --></label>
+    <name>LLC_BI__Form_W7_National_ID_Card_Verifies__c</name>
+    <picklistValues>
+        <masterLabel>Foreign Status</masterLabel>
+        <translation><!-- Foreign Status --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Identity</masterLabel>
+        <translation>アイデンティティ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

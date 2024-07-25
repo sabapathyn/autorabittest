@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>住宅ローンライセンスを発行した状態を選択してください。</help>
+    <label>住宅ローンのライセンスの様子</label>
+    <name>LLC_BI__Mortgage_License_State__c</name>
+</CustomFieldTranslation>

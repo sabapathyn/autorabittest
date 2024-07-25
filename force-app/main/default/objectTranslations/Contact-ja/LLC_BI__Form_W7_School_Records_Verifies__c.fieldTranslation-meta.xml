@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- School Records (valid only for dependents under age 14 or under age 18 if a student) verify either identity or foreign status (on IRS form W-7(COA)). --></help>
+    <label><!-- Form W7 School Records Verifies --></label>
+    <name>LLC_BI__Form_W7_School_Records_Verifies__c</name>
+    <picklistValues>
+        <masterLabel>Foreign Status</masterLabel>
+        <translation><!-- Foreign Status --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Identity</masterLabel>
+        <translation>アイデンティティ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

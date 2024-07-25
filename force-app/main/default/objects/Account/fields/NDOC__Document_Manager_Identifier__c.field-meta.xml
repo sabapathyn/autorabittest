@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NDOC__Document_Manager_Identifier__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It should be set to populate automatically via workflow. This field is used internally to determine which Document Manager to load based on the Type of Account that is set. When left blank, the default document manager labeled &apos;Account&apos; is displayed.</description>
+    <label>Document Manager Identifier</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Default</fullName>
+                <default>false</default>
+                <label>Default</label>
+            </value>
+            <value>
+                <fullName>Special Account</fullName>
+                <default>false</default>
+                <label>Special Account</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

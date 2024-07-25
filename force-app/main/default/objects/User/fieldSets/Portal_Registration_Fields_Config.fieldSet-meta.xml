@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Portal_Registration_Fields_Config</fullName>
+    <description>Add additional fields to CP/OA Self Registration page</description>
+    <displayedFields>
+        <field>AboutMe</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Portal_Registration_Fields_Config</label>
+</FieldSet>

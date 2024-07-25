@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Adoption</masterLabel>
+        <translation>可決</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Field Enablement</masterLabel>
+        <translation>フィールドの有効化</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Marketing</masterLabel>
+        <translation>マーケティング</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sales</masterLabel>
+        <translation>セールス</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Support</masterLabel>
+        <translation>サポート</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

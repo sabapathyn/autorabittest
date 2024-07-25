@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Special_Claim_Rate__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It designates the percentage rate of withholding on the specific type of income on the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding).</description>
+    <inlineHelpText>The percentage rate of withholding on the specific type of income on the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding).</inlineHelpText>
+    <label>Form W8 Special Claim Rate</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>4</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Percent</type>
+</CustomField>

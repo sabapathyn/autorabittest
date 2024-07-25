@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Parent_Task__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This is a text field to house the parent Task Id for maintenance subtasks.</description>
+    <externalId>false</externalId>
+    <label>Parent Task</label>
+    <length>20</length>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This box should be checked if the Relationship is an Employee of your Financial Institution --></help>
+    <label><!-- Employee Relationship --></label>
+    <name>LLC_BI__Employee_Relationship__c</name>
+</CustomFieldTranslation>

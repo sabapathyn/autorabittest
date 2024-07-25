@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Yield_Per_Acre__c</fullName>
+    <description>For the user to enter the yield (bushels, pounds, etc.) per acre in an Ag schedule</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Please enter the yield (number of bushels, lbs, CWT, etc.) per acre.</inlineHelpText>
+    <label>Yield Per Acre</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

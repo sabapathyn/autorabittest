@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Customer Case</masterLabel>
+        <translation>カスタマーケース</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Inquiry</masterLabel>
+        <translation>問い合わせ</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Lead</masterLabel>
+        <translation>リード</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Outreach</masterLabel>
+        <translation>アウトリーチ</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Product Review</masterLabel>
+        <translation>商品レビュー</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

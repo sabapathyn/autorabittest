@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>LLC_BI__Commercial_Pricing_Loan_Officer_Scenario_Selection</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>nPRICE__Commercial_Pricing_Profitability_Calculation</name>
+    </customPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>CPP</label>
+</PermissionSet>

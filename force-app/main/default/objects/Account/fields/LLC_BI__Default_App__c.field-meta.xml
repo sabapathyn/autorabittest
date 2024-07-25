@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Default_App__c</fullName>
+    <defaultValue>&apos;relationship.relationship-loan-products&apos;</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This field is optional. The value is set by an administrator. This field determines the default page within the nCino User Interface for this record.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This field determines the default page within the nCino User Interface for this record.</inlineHelpText>
+    <label>Default App</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

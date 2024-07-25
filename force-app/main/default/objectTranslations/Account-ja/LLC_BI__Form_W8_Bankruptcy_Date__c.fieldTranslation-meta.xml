@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date the beneficial owner (non-financial entity) filed for liquidation or bankruptcy, as certified by IRS forms W-8. --></help>
+    <label><!-- Form W8 Bankruptcy Date --></label>
+    <name>LLC_BI__Form_W8_Bankruptcy_Date__c</name>
+</CustomFieldTranslation>

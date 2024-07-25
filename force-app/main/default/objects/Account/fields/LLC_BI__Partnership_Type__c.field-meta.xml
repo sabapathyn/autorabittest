@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Partnership_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. This field is used to specify the partnership type for this account.</description>
+    <label>Partnership Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Type</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>General Partnership</fullName>
+                <default>false</default>
+                <label>General Partnership</label>
+            </value>
+            <value>
+                <fullName>Limited Partnership</fullName>
+                <default>false</default>
+                <label>Limited Partnership</label>
+            </value>
+            <value>
+                <fullName>Limited Liability Partnership (LLP)</fullName>
+                <default>false</default>
+                <label>Limited Liability Partnership (LLP)</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

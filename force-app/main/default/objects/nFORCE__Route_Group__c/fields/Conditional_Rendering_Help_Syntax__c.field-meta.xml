@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Conditional_Rendering_Help_Syntax__c</fullName>
+    <inlineHelpText>{{IF=&quot;A&quot;}}{{COND=&quot;A&quot; FIELD=&quot;LLC_BI__Loan__c.LLC_BI__Stage__c&quot; IS=&quot;Credit Underwriting&quot;}}{{SHOW_ROUTE}}{{ENDIF}}</inlineHelpText>
+    <label>Conditional Rendering Help Syntax</label>
+    <length>32768</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

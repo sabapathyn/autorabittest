@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Auto Decision Exercise - BH</description>
+    <internalUseOnly>false</internalUseOnly>
+    <name>Auto Decision Exercise</name>
+    <public>false</public>
+</Document>

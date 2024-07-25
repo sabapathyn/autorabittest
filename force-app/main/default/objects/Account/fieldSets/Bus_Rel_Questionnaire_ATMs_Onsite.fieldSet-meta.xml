@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bus_Rel_Questionnaire_ATMs_Onsite</fullName>
+    <description>Used in the Business KYC to label the business having ATMs Onsite</description>
+    <displayedFields>
+        <field>ATMs_Onsite__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Bus Rel Questionnaire - ATMs Onsite</label>
+</FieldSet>

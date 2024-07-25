@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>cm_Joint_Intent_Acknowledged_by_Customer__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Used in Consumer Loan Applications to indicate that the borrowers have acknowledged joint intent of the loan.</description>
+    <label>Joint Intent Acknowledged by Customer</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

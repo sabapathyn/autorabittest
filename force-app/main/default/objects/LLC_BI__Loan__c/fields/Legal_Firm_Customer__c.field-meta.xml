@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Legal_Firm_Customer__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <inlineHelpText>This field is used to lookup Legal Firms that have been entered as a Relationship within nCino.  If you do not see your Legal Firm&apos;s name, please create them as a new Relationship and return to this field.</inlineHelpText>
+    <label>Legal Firm</label>
+    <referenceTo>Account</referenceTo>
+    <relationshipLabel>Legal Firm</relationshipLabel>
+    <relationshipName>Loans</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

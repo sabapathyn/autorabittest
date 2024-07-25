@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Foreign Drivers License is being used to verify identity (on IRS form W-7(COA)). --></help>
+    <label><!-- Form W7 Foreign DL Indicator --></label>
+    <name>LLC_BI__Form_W7_Foreign_DL_Indicator__c</name>
+</CustomFieldTranslation>

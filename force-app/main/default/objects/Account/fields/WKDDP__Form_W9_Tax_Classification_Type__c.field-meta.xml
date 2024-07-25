@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W9_Tax_Classification_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users select the IRS Form W-9 federal tax classification for the account holder from this optional picklist. This is needed where the account holder is a corporation, limited liability corporation, or disregarded entity. This prints on IRS form W-9 and signature cards.</description>
+    <inlineHelpText>Select the IRS Form W-9 federal tax classification for the account holder where the account holder is a corporation, limited liability corporation, or disregarded entity.</inlineHelpText>
+    <label>Form W9 Tax Classification Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>C Corporation</fullName>
+                <default>false</default>
+                <label>C Corporation</label>
+            </value>
+            <value>
+                <fullName>Disregarded Entity</fullName>
+                <default>false</default>
+                <label>Disregarded Entity</label>
+            </value>
+            <value>
+                <fullName>Partnership</fullName>
+                <default>false</default>
+                <label>Partnership</label>
+            </value>
+            <value>
+                <fullName>S Corporation</fullName>
+                <default>false</default>
+                <label>S Corporation</label>
+            </value>
+            <value>
+                <fullName>Single-Member</fullName>
+                <default>false</default>
+                <label>Single-Member</label>
+            </value>
+            <value>
+                <fullName>LLC</fullName>
+                <default>false</default>
+                <label>LLC</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Phone_Number_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is not required and is manually populated. This field defines the type of phone number entered in the &quot;Phone&quot; field on the Account object.</description>
+    <label>Phone Number Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Home</fullName>
+                <default>false</default>
+                <label>Home</label>
+            </value>
+            <value>
+                <fullName>Work</fullName>
+                <default>false</default>
+                <label>Work</label>
+            </value>
+            <value>
+                <fullName>Mobile</fullName>
+                <default>false</default>
+                <label>Mobile</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

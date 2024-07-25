@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>口座名義人が非居住外国人の場合は、その大学または教育機関に通う期間の説明。IRS Individual Taxpayer Identification Number (W-7)の申請に必要なフォーム。</help>
+    <label><!-- Form W7 College Duration --></label>
+    <name>LLC_BI__Form_W7_College_Duration__c</name>
+</CustomFieldTranslation>

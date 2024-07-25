@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>CCPA</masterLabel>
+        <translation>CCPA.</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>COPPA</masterLabel>
+        <translation><!-- COPPA --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GDPR</masterLabel>
+        <translation><!-- GDPR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HIPAA</masterLabel>
+        <translation>ヒパア</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PCI</masterLabel>
+        <translation><!-- PCI --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PII</masterLabel>
+        <translation><!-- PII --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

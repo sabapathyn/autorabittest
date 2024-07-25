@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WKDDP__Form_W9_Tax_Cls_Disreg_Enty_USOwner__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users select the IRS Form W-9 federal tax classification of the disregarded entity&apos;s primary non-disregarded U.S. owner from this optional picklist. This is needed when the owner of the disregarded entity is itself a corporation or limited liability company.</description>
+    <inlineHelpText>Select the IRS Form W-9 federal tax classfication of the disregarded entity&apos;s primary non-disregarded U.S. owner when the owner of the disregarded entity is itself a corporation or limited liability company.</inlineHelpText>
+    <label>Form W9 Tax Cls Type Disreg Enty USOwner</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Single-Member</fullName>
+                <default>false</default>
+                <label>Single-Member</label>
+            </value>
+            <value>
+                <fullName>LLC</fullName>
+                <default>false</default>
+                <label>LLC</label>
+            </value>
+            <value>
+                <fullName>C Corporation</fullName>
+                <default>false</default>
+                <label>C Corporation</label>
+            </value>
+            <value>
+                <fullName>Partnership</fullName>
+                <default>false</default>
+                <label>Partnership</label>
+            </value>
+            <value>
+                <fullName>S Corporation</fullName>
+                <default>false</default>
+                <label>S Corporation</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

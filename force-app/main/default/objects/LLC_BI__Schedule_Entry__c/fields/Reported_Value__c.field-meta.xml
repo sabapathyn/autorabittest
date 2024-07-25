@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Reported_Value__c</fullName>
+    <description>For the user to enter the customer reported value of a spreads schedule item/row</description>
+    <inlineHelpText>The value as reported by the customer/member/client</inlineHelpText>
+    <label>Reported Value</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

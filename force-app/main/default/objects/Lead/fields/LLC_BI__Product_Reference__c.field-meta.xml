@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Product_Reference__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>The field is required and is used to look up the Lead’s specific Product. The options available for the Product selections are dependent on the Product Line and Product Type fields. It is required and manually populated.</description>
+    <label>Product</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>$Source.LLC_BI__Product_Type_Reference__c</field>
+            <operation>equals</operation>
+            <valueField>LLC_BI__Product__c.LLC_BI__Product_Type__c</valueField>
+        </filterItems>
+        <filterItems>
+            <field>$Source.LLC_BI__Product_Line_Reference__c</field>
+            <operation>equals</operation>
+            <valueField>LLC_BI__Product__c.LLC_BI__Product_Type__r.LLC_BI__Product_Line__c</valueField>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
+    <referenceTo>LLC_BI__Product__c</referenceTo>
+    <relationshipLabel>Leads</relationshipLabel>
+    <relationshipName>Leads</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Lookup</type>
+</CustomField>

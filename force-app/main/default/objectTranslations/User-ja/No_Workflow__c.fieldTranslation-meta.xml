@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field should be checked when choosing to turn off ALL workflow rules for an individual user.  This will typically apply to nCino &amp; Salesforce Administrators. --></help>
+    <label><!-- No Workflow --></label>
+    <name>No_Workflow__c</name>
+</CustomFieldTranslation>

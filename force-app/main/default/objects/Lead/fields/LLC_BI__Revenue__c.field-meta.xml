@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Revenue__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and specifies the Lead&apos;s potential revenue amount. It is manually populated.</description>
+    <label>Revenue</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Currency</type>
+</CustomField>

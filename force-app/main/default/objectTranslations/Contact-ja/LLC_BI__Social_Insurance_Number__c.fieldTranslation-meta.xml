@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>ここで債務者の社会保険番号を入力してください。</help>
+    <label>社会保障番号</label>
+    <name>LLC_BI__Social_Insurance_Number__c</name>
+</CustomFieldTranslation>

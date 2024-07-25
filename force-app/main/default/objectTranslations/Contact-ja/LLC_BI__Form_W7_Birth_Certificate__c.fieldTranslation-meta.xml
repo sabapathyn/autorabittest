@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Civil Birth Certificate (required for applicants under 18 if passport is not provided) verifies either identity or foreign status (on IRS form W-7(COA)). --></help>
+    <label><!-- Form W7 Birth Certificate --></label>
+    <name>LLC_BI__Form_W7_Birth_Certificate__c</name>
+    <picklistValues>
+        <masterLabel>Foreign Status</masterLabel>
+        <translation><!-- Foreign Status --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Identity</masterLabel>
+        <translation>アイデンティティ</translation>
+    </picklistValues>
+</CustomFieldTranslation>

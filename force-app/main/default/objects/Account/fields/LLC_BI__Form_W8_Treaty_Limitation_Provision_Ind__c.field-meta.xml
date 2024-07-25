@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Treaty_Limitation_Provision_Ind__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. If true, the owner is not an individual derives the income for which the treaty benefits are claimed and if applicable meets the requirements of the treaty provision dealing with limitation on benefits. It is form-specific for the W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding).</description>
+    <inlineHelpText>If true the owner is not an individual derives the income for which the treaty benefits are claimed.</inlineHelpText>
+    <label>Form W8 Treaty Limitation Provision</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

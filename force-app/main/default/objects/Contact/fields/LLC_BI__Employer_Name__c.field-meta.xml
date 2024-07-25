@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Employer_Name__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. The name of the primary employer for the account holder.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The name of the primary employer for the account holder.</inlineHelpText>
+    <label>Employer Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

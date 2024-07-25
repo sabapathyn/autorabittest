@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W8_Bankruptcy_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It is the date the beneficial owner (non-financial entity) filed for liquidation or bankruptcy, as certified by IRS forms W-8.</description>
+    <inlineHelpText>The date the beneficial owner (non-financial entity) filed for liquidation or bankruptcy, as certified by IRS forms W-8.</inlineHelpText>
+    <label>Form W8 Bankruptcy Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Date</type>
+</CustomField>

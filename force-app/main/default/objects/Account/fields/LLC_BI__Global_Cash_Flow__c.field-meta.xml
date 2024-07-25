@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Global_Cash_Flow__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional. It is populated by a user or a data integration. It is used to demonstrate the owner&apos;s total monthly cash flow. Calculated automatically. Global CF = ((NOI) + (Spouse Salary if spouse is guarantor) + (Other Income)).</description>
+    <externalId>false</externalId>
+    <label>Global Cash Flow</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Home</masterLabel>
+        <translation>家</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Inactive</masterLabel>
+        <translation>無効</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Temporary</masterLabel>
+        <translation>一時的</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Work</masterLabel>
+        <translation>仕事</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

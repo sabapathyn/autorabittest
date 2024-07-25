@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- For manual steps, this field should be the step by step instructions the user needs to take to complete the step.  For automated steps this text is optional, but it is often helpful to include the manual steps anyway. --></help>
+    <label><!-- Step Description --></label>
+    <name>StepDescription__c</name>
+</CustomFieldTranslation>

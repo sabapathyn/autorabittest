@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Confidential</masterLabel>
+        <translation>信頼</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Internal</masterLabel>
+        <translation>内部</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MissionCritical</masterLabel>
+        <translation>ミッションクリティカル</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Public</masterLabel>
+        <translation><!-- Public --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Restricted</masterLabel>
+        <translation>制限付き</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

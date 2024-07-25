@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>リード状況詳細</label>
+    <name>LLC_BI__Lead_Status_Detail__c</name>
+</CustomFieldTranslation>

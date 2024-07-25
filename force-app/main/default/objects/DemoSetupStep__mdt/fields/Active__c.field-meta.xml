@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Active__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description>Checked for active steps.  This field can be used to temporarily deactivate a step.</description>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Checked for active steps.  This field can be used to temporarily deactivate a step.</inlineHelpText>
+    <label>Active</label>
+    <type>Checkbox</type>
+</CustomField>

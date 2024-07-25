@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Tax_Identification_Max_Length</fullName>
+    <active>true</active>
+    <errorConditionFormula>LEN( LLC_BI__Tax_Identification_Number__c ) &gt; 11</errorConditionFormula>
+    <errorMessage>Tax Identification Number cannot exceed 11 characters</errorMessage>
+</ValidationRule>

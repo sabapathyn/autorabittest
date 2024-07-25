@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>格付 テンプレート</label>
+    <name>Risk_Rating_Template__c</name>
+    <picklistValues>
+        <masterLabel>Individual</masterLabel>
+        <translation><!-- Individual --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

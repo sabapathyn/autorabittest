@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Indirect_Lending_Business_Identifiers</fullName>
+    <description>This field set contains the fields that the system must automatically search for to determine if an applicant is an existing business account. By default, this field set contains the Name and Tax Identification Number fields.</description>
+    <displayedFields>
+        <field>Name</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Tax_Identification_Number_PE__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Indirect Lending Business Identifiers</label>
+</FieldSet>

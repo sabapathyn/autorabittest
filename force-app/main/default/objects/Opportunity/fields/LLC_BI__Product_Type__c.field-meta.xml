@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Product_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This picklist field is manually selected and will filter based on product line selection and will drive the available product selections. This is a required field to be able to convert to nCino. The field is used to specify the particular product the opportunity is for. Use either the reference or the picklist field.</description>
+    <label>Product Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>LLC_BI__Product_Line__c</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Real Estate</fullName>
+                <default>false</default>
+                <label>Real Estate</label>
+            </value>
+            <value>
+                <fullName>Line of Credit</fullName>
+                <default>false</default>
+                <label>Line of Credit</label>
+            </value>
+            <value>
+                <fullName>Auto Loan</fullName>
+                <default>false</default>
+                <label>Auto Loan</label>
+            </value>
+            <value>
+                <fullName>Non Real Estate</fullName>
+                <default>false</default>
+                <label>Non Real Estate</label>
+            </value>
+            <value>
+                <fullName>Consumer Checking</fullName>
+                <default>false</default>
+                <label>Consumer Checking</label>
+            </value>
+            <value>
+                <fullName>Consumer Savings</fullName>
+                <default>false</default>
+                <label>Consumer Savings</label>
+            </value>
+            <value>
+                <fullName>Business Checking</fullName>
+                <default>false</default>
+                <label>Business Checking</label>
+            </value>
+            <value>
+                <fullName>Business Savings</fullName>
+                <default>false</default>
+                <label>Business Savings</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Commercial</controllingFieldValue>
+            <valueName>Real Estate</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Commercial</controllingFieldValue>
+            <valueName>Non Real Estate</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Retail</controllingFieldValue>
+            <valueName>Line of Credit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Retail</controllingFieldValue>
+            <valueName>Auto Loan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Consumer Deposits</controllingFieldValue>
+            <valueName>Consumer Checking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Consumer Deposits</controllingFieldValue>
+            <valueName>Consumer Savings</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Deposits</controllingFieldValue>
+            <valueName>Business Checking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Deposits</controllingFieldValue>
+            <valueName>Business Savings</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

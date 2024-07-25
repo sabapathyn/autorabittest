@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>審査頻度</label>
+    <name>LLC_BI__Review_Frequency__c</name>
+    <picklistValues>
+        <masterLabel>Annually</masterLabel>
+        <translation>年次</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Every 2 Months</masterLabel>
+        <translation>２カ月ごと</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly</masterLabel>
+        <translation>月次</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Quarterly</masterLabel>
+        <translation>四半期</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semi-Annually</masterLabel>
+        <translation>半期毎</translation>
+    </picklistValues>
+</CustomFieldTranslation>

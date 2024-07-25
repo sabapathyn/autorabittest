@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bus_Rel_Questionnaire_Money_Service</fullName>
+    <description>Used in the Business Relationship Questionnaire for the Money Services screen section</description>
+    <displayedFields>
+        <field>Money_Services_Business__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Bus Rel Questionnaire - Money Service</label>
+</FieldSet>

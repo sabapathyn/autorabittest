@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Data.comフィールドの代わりに利用されているDUNS番号</help>
+    <label>DUNS番号</label>
+    <name>LLC_BI__Duns_Number__c</name>
+</CustomFieldTranslation>

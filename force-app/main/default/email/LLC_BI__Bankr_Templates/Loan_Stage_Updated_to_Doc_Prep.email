@@ -1,0 +1,3 @@
+{!LLC_BI__Loan__c.Name} has reached the Doc Prep Stage.  Please login at your earliest convenience to review. 
+
+Click here for loan details: {!LLC_BI__Loan__c.Link}

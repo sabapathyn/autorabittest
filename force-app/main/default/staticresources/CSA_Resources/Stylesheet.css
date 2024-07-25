@@ -1,0 +1,17 @@
+.slds-icon {
+    padding-left: 5px;
+}
+
+.slds-padding-15 {
+    padding: 25px;
+}
+
+.backgroud-white {
+    background-color: white !important;
+    margin-left: 17px;
+    margin-right: 17px;
+}
+
+.slds-form-actions {
+    text-align:right;
+}

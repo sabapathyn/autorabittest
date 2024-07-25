@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- NaicsDesc Description utilized in lieu of Data.com field --></help>
+    <label><!-- NaicsDesc --></label>
+    <name>LLC_BI__NaicsDesc__c</name>
+</CustomFieldTranslation>

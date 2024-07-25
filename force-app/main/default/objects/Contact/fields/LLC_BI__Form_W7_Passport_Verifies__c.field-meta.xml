@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Form_W7_Passport_Verifies__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is optional and manually updated. Indicates that the individual&apos;s passport (stand alone document) verifies foreign status identity or both (on IRS form W-7(COA)).</description>
+    <inlineHelpText>Indicates that the individual&apos;s passport (stand alone document) verifies foreign status identity or both (on IRS form W-7(COA)).</inlineHelpText>
+    <label>Form W7 Passport Verifies</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Identity</fullName>
+                <default>false</default>
+                <label>Identity</label>
+            </value>
+            <value>
+                <fullName>Foreign Status</fullName>
+                <default>false</default>
+                <label>Foreign Status</label>
+            </value>
+            <value>
+                <fullName>Identity and foreign status</fullName>
+                <default>false</default>
+                <label>Identity and foreign status</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

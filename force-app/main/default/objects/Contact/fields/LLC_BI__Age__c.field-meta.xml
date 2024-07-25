@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Age__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this formula field to indicate the individual&apos;s age.</description>
+    <externalId>false</externalId>
+    <formula>IF(AND(MONTH(TODAY()) &gt;= MONTH(Birthdate), DAY(TODAY()) &gt;= DAY(Birthdate)),
+        YEAR(TODAY()) - YEAR(Birthdate) + (MONTH(TODAY()) - MONTH(Birthdate)) / 12,
+        IF(AND(MONTH(TODAY()) &lt; MONTH(Birthdate), DAY(TODAY()) &gt;= DAY(Birthdate)),
+            YEAR(TODAY()) - YEAR(Birthdate) - 1 + (12 - MONTH(Birthdate) + MONTH(TODAY())) / 12,
+        IF(AND(MONTH(TODAY()) &lt; MONTH(Birthdate), DAY(TODAY()) &lt; DAY(Birthdate)),
+            (YEAR(TODAY()) - YEAR(Birthdate) - 1) + ((12 - MONTH(Birthdate) + MONTH(TODAY()) - 1)) / 12,
+        IF(AND(MONTH(TODAY()) = MONTH(Birthdate), DAY(TODAY()) &lt; DAY(Birthdate)),
+            (YEAR(TODAY()) - YEAR(Birthdate) - 1) + (11/12),
+            (YEAR(TODAY()) - YEAR(Birthdate)) + (MONTH(TODAY()) - MONTH(Birthdate) -1) / 12))))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>This field indicates the individual&apos;s age.</inlineHelpText>
+    <label>Age</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- DUNS number utilized in lieu of Data.com field --></help>
+    <label><!-- D-U-N-S Number --></label>
+    <name>LLC_BI__Duns_Number__c</name>
+</CustomFieldTranslation>

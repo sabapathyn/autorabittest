@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Products_Interested_In__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is manually entered and optional. It is a free form text area that allows the user to detail any additional products the relationship/account associated to the existing opportunity may be interested in.</description>
+    <label>Products Interested In</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DONOTPACKAGE_GeoField__c</fullName>
+    <deprecated>false</deprecated>
+    <description>--DEPRECATED-- This field is optional.  Geolocation field required for a test case. For testing only.</description>
+    <displayLocationInDecimal>false</displayLocationInDecimal>
+    <inlineHelpText>--DEPRECATED-- Geolocation field required for a test case. For testing only.</inlineHelpText>
+    <label>-D TESTING ONLY - Test GeoField</label>
+    <required>false</required>
+    <scale>3</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Location</type>
+</CustomField>
